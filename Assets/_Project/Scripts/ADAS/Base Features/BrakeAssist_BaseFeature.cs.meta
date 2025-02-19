@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9898dbbf1171bf8428d1aa57058575a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ForwardRayStartingPoint: {instanceID: 0}
+  - beepSound: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

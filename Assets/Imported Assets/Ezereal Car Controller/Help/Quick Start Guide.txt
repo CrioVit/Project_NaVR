@@ -1,0 +1,5 @@
+To get started, simply drag and drop the "Electric Truck - Ready To Drive" prefab from the main Prefab folder into your scene.
+Or use different prefabs depending on your needs in "More Prefabs" folder
+If you encounter any issues or have feedback, feel free to leave a review on the Asset Store page or contact us at weanwind@gmail.com.
+
+Thank you for downloading this free asset. Enjoy using it and have fun creating!

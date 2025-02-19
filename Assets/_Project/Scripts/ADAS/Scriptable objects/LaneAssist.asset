@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bfbfa173549c042966835c39525383, type: 3}
+  m_Name: LaneAssist
+  m_EditorClassIdentifier: 
+  Name: Lane Assist
+  Description: Lane Assist is an advanced driver-assistance system that keeps a road
+    vehicle centered in the lane, relieving the driver of the task of steering.
+  BaseFeaturesList:
+  - {fileID: 11400000, guid: a45c88abbb7dc604486f627124d18049, type: 2}
+  - {fileID: 11400000, guid: a89b6c5504ac4444a8765978c28c808f, type: 2}
+  MajorFeaturesList: []
+  LaneAssistSettings:
+    SteeringSpeed: 0.3
+  _isInitialized: 0
+  _inputActionAsset: {fileID: -944628639613478452, guid: db9bc9a6d7605114693a667a45b4d092, type: 3}
+  _isOn: 0
+  _controlType: 1
+  StoredSteeringSpeed: 0.5

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24b6e6f20b6b21d45a79ffa681976823
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144660
+  packageName: Vehicle System Pro (Free)
+  packageVersion: 1.0
+  assetPath: Assets/VehicleSystemFree/Models/Vehicles/Materials/SedanMat.mat
+  uploadId: 306794

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1d6d49964206d2f4fb44e17f73a697ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144660
+  packageName: Vehicle System Pro (Free)
+  packageVersion: 1.0
+  assetPath: Assets/VehicleSystemFree/Scenes/Script/DestroyObjectFree.cs
+  uploadId: 306794

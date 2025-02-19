@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc1d59f4efa78e4db61ed92c03d0e3f, type: 3}
+  m_Name: ParkingSensor
+  m_EditorClassIdentifier: 
+  Name: 
+  Description: 
+  ParkingSensorSettings:
+    PS_ActivationDistance: 15
+    PS_FarDistance: 3
+    PS_MidDistance: 2
+    PS_NearDistance: 1
+  _obstaclePresence: 0
+  _inputActionAsset: {fileID: -944628639613478452, guid: db9bc9a6d7605114693a667a45b4d092, type: 3}
+  _carControlType: 1
+  _audioSource: {fileID: 0}
+  _soundsID:
+    _serializedList:
+    - Key: ParkingSensorBeep
+      Value:
+        ID: 1073741839
+        _sourceAsset: {fileID: 11400000, guid: 74191813a14b72f45b2350d87b08a3ca, type: 2}
+        <DebugObject>k__BackingField: {fileID: 0}
+  _playSound: 0
+  _DetectingObstacleRL: 1
+  _DetectingObstacleRC: 1
+  _DetectingObstacleRR: 1
+  _distanceToBackwardObstacle: 0.53176874

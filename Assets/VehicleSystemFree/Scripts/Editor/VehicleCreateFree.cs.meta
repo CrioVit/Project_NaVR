@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c7a9be50ab9b9404d92028a86e855914
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144660
+  packageName: Vehicle System Pro (Free)
+  packageVersion: 1.0
+  assetPath: Assets/VehicleSystemFree/Scripts/Editor/VehicleCreateFree.cs
+  uploadId: 306794

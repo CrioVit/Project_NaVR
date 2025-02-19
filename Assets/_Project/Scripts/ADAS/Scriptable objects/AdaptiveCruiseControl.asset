@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 345ba1bbf54283144b11c695cac7cf3c, type: 3}
+  m_Name: AdaptiveCruiseControl
+  m_EditorClassIdentifier: 
+  Name: Adaptive Cruise Control
+  Description: Feature that automatically adjusts the vehicle speed to maintain a
+    safe distance from vehicles ahead
+  BaseFeaturesList:
+  - {fileID: 11400000, guid: a89b6c5504ac4444a8765978c28c808f, type: 2}
+  - {fileID: 11400000, guid: c47151ccee15c074a90ea0f96e762a58, type: 2}
+  MajorFeaturesList: []
+  AdaptiveCruiseControlSettings:
+    distance: 20
+    maxDistance: 30
+    minDistance: 10
+    minSpeed: 0
+  _isInitialized: 0
+  _inputActionAsset: {fileID: -944628639613478452, guid: db9bc9a6d7605114693a667a45b4d092, type: 3}
+  _isOn: 0
+  _controlType: 1
+  DistanceToFO: 0
+  BrakeAssistSecurityDistance: 0
+  StoredCruiseSpeed: 0
+  StoredMaxSpeed: 180
