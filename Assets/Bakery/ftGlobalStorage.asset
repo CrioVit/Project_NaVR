@@ -410,7 +410,34 @@ MonoBehaviour:
   - Assets/Technie/PhysicsCreator/Examples/Example Scene Assets/Models/Technie Mug.fbx
   - Assets/Technie/PhysicsCreator/Examples/Example Scene Assets/Models/Technie Cog.fbx
   - Assets/Technie/PhysicsCreator/Examples/Example Scene Assets/Models/Technie Key.fbx
-  uvOverlapAssetList: 00000000ffffffff010100000000000000000000000000000000000000000000010100000000000000000000
+  - Packages/com.unity.xr.arfoundation/Assets/Prefabs/Handles.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Hands Interaction Demo/HandsDemoSceneAssets/Models/Primitives/Cone.fbx
+  - Assets/Samples/Snapdragon Spaces/1.0.0/Core Samples/Shared Assets/Models/XRControllerRight.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/DemoSceneAssets/Models/Primitive_Torus.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/DemoSceneAssets/Models/Primitive_Torus_Cut.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/Models/BlinkVisual.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/DemoSceneAssets/Models/Primitive_Blaster.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Hands Interaction Demo/HandsDemoSceneAssets/Models/Frame.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/Models/UniversalController.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/Models/Pinch_Pointer_LOD0.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Hands Interaction Demo/HandsDemoSceneAssets/Models/Primitives/Cube.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/Models/Reticle_Torus.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/DemoSceneAssets/Models/Primitive_Tapered_Cylinder.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Hands Interaction Demo/HandsDemoSceneAssets/Models/Primitives/Disc.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/Tunneling Vignette/TunnelingVignetteHemisphere.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Hands Interaction Demo/HandsDemoSceneAssets/Models/VirtualTabletop.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/Models/Primitive_Wedge.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/DemoSceneAssets/Models/PushButton.fbx
+  - Assets/Samples/Snapdragon Spaces/1.0.0/Core Samples/Shared Assets/Models/HostController.FBX
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Hands Interaction Demo/HandsDemoSceneAssets/Models/Primitives/Cylinder.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/DemoSceneAssets/Models/Primitive_Pyramid.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Hands Interaction Demo/HandsDemoSceneAssets/Models/Chess/Chess_Pawn.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Hands Interaction Demo/HandsDemoSceneAssets/Models/Chess/Chess_Board.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/DemoSceneAssets/Models/Primitive_Blaster_Long.fbx
+  - Assets/Samples/Snapdragon Spaces/1.0.0/Core Samples/Scenes/Hit Testing Sample/Models/Arrow.fbx
+  - Assets/Samples/XR Interaction Toolkit/3.0.5/Starter Assets/DemoSceneAssets/Models/Primitive_Cylinder.fbx
+  - Assets/Samples/Snapdragon Spaces/1.0.0/Core Samples/Shared Assets/Models/XRControllerLeft.fbx
+  uvOverlapAssetList: 00000000ffffffff010100000000000000000000000000000000000000000000010100000000000000000000010100000000000000000000000000000000000000000000010100000101000001010000000000000000000000000000010100000101000000000000010100000000000000000000000000000000000000000000000000000101000001010000010100000000000000000000
   xatlasWarningShown: 0
   foundCompatibleSetup: 0
   gpuName: 

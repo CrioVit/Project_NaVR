@@ -71022,7 +71022,6 @@ MonoBehaviour:
   Patrol: 1
   CustomDestination: {fileID: 130246210}
   move: 0
-  LocalMaxSpeed: 0
   speedLimit: 50
   securityDistanceForward: 6
   obstacleDetectionRange: 15
