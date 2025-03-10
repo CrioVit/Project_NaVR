@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:457fcf34c48ee01cb47ade3376077559edf3b0064e31b4f2717c6649772a98fe
-size 469
+fileFormatVersion: 2
+guid: ec366c09300cc1d4e92e60358fd79cde
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/Skinned/SkinnedColliderCreator.cs
+  uploadId: 635387

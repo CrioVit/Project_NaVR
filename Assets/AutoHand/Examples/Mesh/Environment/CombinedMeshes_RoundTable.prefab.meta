@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e344c0896188bbfc5f5042529eccfc6cb8ba00225021533177b0148572e36fdf
-size 383
+fileFormatVersion: 2
+guid: 30384e0d738f5e2449297181b6bd875b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Mesh/Environment/CombinedMeshes_RoundTable.prefab
+  uploadId: 732376

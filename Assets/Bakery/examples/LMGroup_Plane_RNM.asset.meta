@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6856a04336ba750ad2fedd373187cfb86d2b6678cf0d80666ddb457dc4e9478a
-size 408
+fileFormatVersion: 2
+guid: 1db5e7e6e40450946b3d699e4672bd76
+timeCreated: 1539192763
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/LMGroup_Plane_RNM.asset
+  uploadId: 641446

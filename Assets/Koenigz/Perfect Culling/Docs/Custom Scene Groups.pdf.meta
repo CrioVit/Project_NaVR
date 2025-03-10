@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:33867f78294377fa4f8f05fa1f2e70875c27da43385b98c87b9f413737636393
-size 387
+fileFormatVersion: 2
+guid: 49b9e31720d81de4f8011326d56ab32d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Docs/Custom Scene Groups.pdf
+  uploadId: 694221

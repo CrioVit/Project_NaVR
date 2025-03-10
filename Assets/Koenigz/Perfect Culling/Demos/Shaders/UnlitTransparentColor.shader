@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:41ec44d8a2d95a897c92aebe285c6cc2e5d044b96135cd08e55bc96c86eee8e1
-size 421
+﻿Shader "Koenigz/Demo/Unlit Transparent Color" 
+{
+    Properties 
+    {
+        _Color ("Color", Color) = (1,1,1,1)
+    }
+
+    SubShader 
+    {
+        Tags { "Queue"="Transparent" "IgnoreProjector"="True" "RenderType"="Transparent" }
+        
+        ZWrite Off
+        Lighting Off
+        Fog { Mode Off }
+
+        Blend SrcAlpha OneMinusSrcAlpha 
+
+        Pass
+        {
+            Color [_Color]
+        }
+    }
+}

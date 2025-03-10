@@ -1,3 +1,35 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:37527a129b0e341ce3ea83ee76ef1cde714cff00776a96a65ad81d959b8bd50c
-size 737
+fileFormatVersion: 2
+guid: fce9b605629aa5841bb27de3b0173678
+timeCreated: 1688405478
+licenseType: Store
+PluginImporter:
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+    data:
+      first:
+        Any: 
+      second:
+        enabled: 0
+        settings: {}
+    data:
+      first:
+        Editor: Editor
+      second:
+        enabled: 1
+        settings:
+          CPU: x86_64
+          DefaultValueInitialized: true
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/OpenImageDenoise_core.dll
+  uploadId: 641446

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a7dff556cc96aed6d55076bd36b680a9c5c9e4b0673b4a207affb9b07e326dff
-size 443
+fileFormatVersion: 2
+guid: 1e1e358c1b681e8448d2f168014855c7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Movement/Climbable.cs
+  uploadId: 732376

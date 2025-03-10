@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c301a059db2bf2f3c18cf049207a277a7511e8a7ce4d6e1fdcbcea29654ccf50
-size 502
+fileFormatVersion: 2
+guid: 0bcbc424b10864b4eb6e3bcfb276cdf9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Attributes/NaughtyAttributes/Editor/PropertyDrawers/ProgressBarPropertyDrawer.cs
+  uploadId: 732376

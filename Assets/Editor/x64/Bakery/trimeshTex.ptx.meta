@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3121ab8a0e0dff3beae2e14dc31e1392d5df9ce003f68d3c0da0e974eae755fd
-size 367
+fileFormatVersion: 2
+guid: df4459d40f1189949ac01d6293872ec5
+timeCreated: 1526161016
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/trimeshTex.ptx
+  uploadId: 641446

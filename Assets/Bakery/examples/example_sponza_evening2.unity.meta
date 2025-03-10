@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:52256cc037c558e7e13377331013c61d3ee86480b9cba30c96a6984fcd7dbc8f
-size 380
+fileFormatVersion: 2
+guid: 4920176bc2be2e64c9e95ff242319c21
+timeCreated: 1531247743
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/example_sponza_evening2.unity
+  uploadId: 641446

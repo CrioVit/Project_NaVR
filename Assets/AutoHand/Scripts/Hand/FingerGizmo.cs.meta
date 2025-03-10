@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc44cf3d85e0e12d28eee3432c010cc2c991be51c1b3513c925f67f8f8727a3f
-size 258
+fileFormatVersion: 2
+guid: 48b44988d9ac3ad4d829d672b3d86020
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Hand/FingerGizmo.cs
+  uploadId: 732376

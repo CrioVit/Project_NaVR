@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:371ebafb64f5f4008b93307a1997be505439696cda716c0f50b95da7d0472f3e
-size 376
+fileFormatVersion: 2
+guid: b3f6639619f99eb44b9076569785de46
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Gadgets/Wheel Advanced Pose.prefab
+  uploadId: 732376

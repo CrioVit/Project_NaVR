@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1bb2ce2f1f12afa8f4a359114350bd789410fdfaea6f573d77cd9dd2aa20929
-size 378
+fileFormatVersion: 2
+guid: fad0196ede3a41749af057ec68f43124
+timeCreated: 1531334118
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/NormalsFittingTexture_dds
+  uploadId: 641446

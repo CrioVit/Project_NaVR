@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e34c4c7163bdea53ba00b3092c299da650a233c53c3df2426bf83a00b48fb84b
-size 378
+fileFormatVersion: 2
+guid: 966cd9feaf442e64b9154c34e29787e1
+timeCreated: 1595076643
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/ftDilate.shader
+  uploadId: 641446

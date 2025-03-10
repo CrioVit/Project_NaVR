@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ef29a65bbf8b7ff4b75e2c37eb0d35e60f6ed041e53dbc03505c1bf964e7b82
-size 390
+fileFormatVersion: 2
+guid: 39e1e2e9bb9edd249be122365cd7f27b
+timeCreated: 1621331743
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/ftFarSphereRenderBase.cginc
+  uploadId: 641446

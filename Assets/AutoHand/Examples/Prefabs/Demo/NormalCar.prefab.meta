@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d89e668945de50331c3b6c9b84ac949cb1edcc03fc36359339bc4112d3dd2a9
-size 363
+fileFormatVersion: 2
+guid: 7dba55f491823c44b9d7449daf828272
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Demo/NormalCar.prefab
+  uploadId: 732376

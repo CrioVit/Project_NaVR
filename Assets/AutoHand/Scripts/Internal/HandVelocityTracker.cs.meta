@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81a3d999d494a0cc38d6ee160880d7936f89e5de2de24e9ab31621431ebb1d6d
-size 453
+fileFormatVersion: 2
+guid: bc13386119009a34bb92919fb31f8f9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Internal/HandVelocityTracker.cs
+  uploadId: 732376

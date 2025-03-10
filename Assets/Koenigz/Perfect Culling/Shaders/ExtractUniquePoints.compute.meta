@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe1223be447635a94b2e472c9a36ef7c17ce8ddd6fc35accd9ee89fec90e2224
-size 420
+fileFormatVersion: 2
+guid: a3f7eea458883934699d3b8ac87a9724
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Shaders/ExtractUniquePoints.compute
+  uploadId: 694221

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c3fec57c28d318520cdb5cb31906eda8208b249d04824f4d1fc611641618c94
-size 399
+fileFormatVersion: 2
+guid: 514554cea66ad224eb5aaa7398fb0efa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/SemiTransparent 1.mat
+  uploadId: 732376

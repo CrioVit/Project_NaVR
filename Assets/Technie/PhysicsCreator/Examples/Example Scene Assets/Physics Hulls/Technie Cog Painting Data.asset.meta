@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f446c55a49cf85e2fda51305fdec556214701cd47c767ab7e40f3b981b527bb6
-size 453
+fileFormatVersion: 2
+guid: 3a8b33dca0e3d5a40af8f4085fc796a9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Examples/Example Scene Assets/Physics
+    Hulls/Technie Cog Painting Data.asset
+  uploadId: 635387

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4393c42a06f009fc5c2d6cab148c34ef5f232d84daa4cb6b881c86815884ece9
-size 365
+fileFormatVersion: 2
+guid: 47470f4847a93aa43b98be35833fa1ac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Simple/BreakCube.prefab
+  uploadId: 732376

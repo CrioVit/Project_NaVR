@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb957c7674b741415ef437abc20d1a69828459fdf3a3a3ff03e64a8f754c9635
-size 452
+fileFormatVersion: 2
+guid: d1cfa7fca3c60d543beef7d0783d75f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Templates/HandEventDebugger.cs
+  uploadId: 732376

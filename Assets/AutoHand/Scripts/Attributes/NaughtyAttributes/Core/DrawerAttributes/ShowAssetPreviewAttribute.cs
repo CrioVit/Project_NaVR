@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:723293d6366d57bc663f8f3a77de13f80ab0a901b4fc26669f895b1b836bd45b
-size 494
+﻿using System;
+
+namespace NaughtyAttributes
+{
+	[AttributeUsage(AttributeTargets.Field, AllowMultiple = false, Inherited = true)]
+	public class ShowAssetPreviewAttribute : DrawerAttribute
+	{
+		public const int DefaultWidth = 64;
+		public const int DefaultHeight = 64;
+
+		public int Width { get; private set; }
+		public int Height { get; private set; }
+
+		public ShowAssetPreviewAttribute(int width = DefaultWidth, int height = DefaultHeight)
+		{
+			Width = width;
+			Height = height;
+		}
+	}
+}

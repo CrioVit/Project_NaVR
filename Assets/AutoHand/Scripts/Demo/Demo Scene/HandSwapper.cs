@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:18e30ac670409391ad7b4e043f57c933d67964df456298728802d3e277efba6d
-size 1219
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Autohand.Demo {
+public class HandSwapper : MonoBehaviour{
+        public AutoHandPlayer player;
+        public Hand fromHand;
+        public Hand toHand;
+        public GameObject fromModel;
+        public GameObject toModel;
+
+        bool swapped;
+        public void Swap() {
+            if(!swapped){
+                if (toHand.left)
+                    player.handLeft = toHand;
+                else
+                    player.handRight = toHand;
+
+                fromHand.gameObject.SetActive(false);
+                fromModel.gameObject.SetActive(true);
+                toHand.gameObject.SetActive(true);
+                toModel.gameObject.SetActive(false);
+            }
+            else { 
+                if (fromHand.left)
+                    player.handLeft = fromHand;
+                else
+                    player.handRight = fromHand;
+
+                fromHand.gameObject.SetActive(true); 
+                fromModel.gameObject.SetActive(false);
+                toHand.gameObject.SetActive(false);
+                toModel.gameObject.SetActive(true);
+
+            }
+            swapped = !swapped;
+        }
+    }
+}

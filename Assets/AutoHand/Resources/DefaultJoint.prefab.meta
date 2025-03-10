@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c16d5f5700d9a5a54e8545121b4a9431251fcf691bf953448613fb833bfa0e2f
-size 354
+fileFormatVersion: 2
+guid: 0d5fbe471093614408ca515852239cb3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Resources/DefaultJoint.prefab
+  uploadId: 732376

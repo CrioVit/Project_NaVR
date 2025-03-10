@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ce4decb2b4ac24fa61c7a39b8affeb502cda49cc3e391b7a9a17382e7c71ea5
-size 363
+fileFormatVersion: 2
+guid: 62b0ee47b1e46a04c92f6b93ec3b3180
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Kitchen/Fridge.prefab
+  uploadId: 732376

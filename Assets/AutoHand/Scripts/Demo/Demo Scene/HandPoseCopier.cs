@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2d8c00d5677bb4ff5e79e2b06d287468257dbb3b42dcb277a6f8d2a37ec4defc
-size 448
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Autohand
+{
+    public class HandPoseCopier : MonoBehaviour
+    {
+        public HandPoseDataContainer handPose;
+        public Hand hand;
+
+        [ContextMenu("Copy Pose To Hand")]
+        public void CopyPoseToHand() {
+              if(handPose == null || hand == null)
+                return;
+
+              handPose.SetHandPose(hand);
+        }
+
+    }
+}

@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:817931b475991f09f96c415801c45b236040b0ce4e38283d94188c4a10febf26
-size 474
+fileFormatVersion: 2
+guid: 74576fe588befbe4087dd6600108db92
+timeCreated: 1463594936
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/Rigid/HullData.cs
+  uploadId: 635387

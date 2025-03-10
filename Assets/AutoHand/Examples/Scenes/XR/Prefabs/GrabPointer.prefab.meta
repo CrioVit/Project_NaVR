@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ff30f85161be02f15d139198078b1d9a10f485e8e276cbb94ae0bac7859446b
-size 370
+fileFormatVersion: 2
+guid: 79ea27ae647d42447b0f4780552660ef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Scenes/XR/Prefabs/GrabPointer.prefab
+  uploadId: 732376

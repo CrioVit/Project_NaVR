@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6bc9d64b108ae38fa3f89ac9bc129d8a901637d145c50783ec2c973b90e65bc
-size 403
+fileFormatVersion: 2
+guid: 944feb076639a4d39b750e3cb5d7dfab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Highlight/Hands_transparent.mat
+  uploadId: 732376

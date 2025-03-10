@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88d3a4fe16a155daec971059d2c139896774fac2c06f6d6c1d77023d0d2945b3
-size 412
+using UnityEngine;
+using UnityEngine.InputSystem;
+
+public class InputActionEnabler : MonoBehaviour
+{
+    [SerializeField]
+    InputActionAsset m_ActionAsset;
+    public InputActionAsset actionAsset
+    {
+        get => m_ActionAsset;
+        set => m_ActionAsset = value;
+    }
+
+    private void OnEnable()
+    {
+        if (m_ActionAsset != null)
+        {
+            m_ActionAsset.Enable();
+        }
+    }
+}

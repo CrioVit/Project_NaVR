@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4387cd442961f602be074a336b380149a87d46901f0bc19db5b9e9d79acf6f0a
-size 390
+fileFormatVersion: 2
+guid: 4bcd2e3bee7aa694db5e644c90dbe178
+timeCreated: 1540224024
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/ftChecker.shader
+  uploadId: 641446

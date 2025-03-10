@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:508ba2533d4b73ec6ccb7cf47d209a576e4ffb53d27bc0a48f803ec71dc757c3
-size 468
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Autohand {
+    public class EditorHand : MonoBehaviour {
+        public bool useEditorGUI = true;
+        public HandPoseDataContainer handPoseDataContainer;
+
+        Hand _hand = null;
+        public Hand hand {
+            get {
+                if(_hand == null)
+                    _hand = GetComponent<Hand>();
+
+                return _hand;
+            }
+        }
+
+    }
+}

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a24fa2ac4d9ac2a2f8af27a8ffd3f6386b5c154a624e81c671399c10ca1d556
-size 463
+fileFormatVersion: 2
+guid: 8c92cb4b64229d54a991fecf0a9bb8d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/Rigid/RigidHullController.cs
+  uploadId: 635387

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31c5013d4473b26cfce10e38953299d05283da5e1d5cdedf85a87b91715a3e88
-size 427
+fileFormatVersion: 2
+guid: 73edb45c484f5944d8ad8879a7689e04
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Demos/Data/Bake_Transparency.asset
+  uploadId: 694221

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bb3b367db6248026086efc8e941d21b805f9bda9c7c8840c23e6265eb69d4d6c
-size 376
+fileFormatVersion: 2
+guid: 71b964c28dcad6445bfd6bb5ac39b20e
+timeCreated: 1581075098
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/lmSunCloudShadowRNM.ptx
+  uploadId: 641446

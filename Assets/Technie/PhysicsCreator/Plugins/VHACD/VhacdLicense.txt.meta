@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a216132212f89e2784f767840539dd56f1ea2463bec168c2f552dc6d0168843
-size 394
+fileFormatVersion: 2
+guid: f65f5c37d5cf69a449e43a023e8349f1
+timeCreated: 1611076221
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Plugins/VHACD/VhacdLicense.txt
+  uploadId: 635387

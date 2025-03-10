@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3fbb061b37f7991d274eff4ed2f71315471481ff7526dc5723d246d45a554bee
-size 397
+fileFormatVersion: 2
+guid: d65418811c047fd44bd6c40e6ffc20a5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Icons/IconSetDark.asset
+  uploadId: 635387

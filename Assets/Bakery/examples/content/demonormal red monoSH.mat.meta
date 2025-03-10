@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:49dd965a7cf310d9c86c9786b212022333624fca1d0ca0263115f970d0ee75a9
-size 417
+fileFormatVersion: 2
+guid: 9701e091241d1464287320e87f979e9f
+timeCreated: 1539286056
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/demonormal red monoSH.mat
+  uploadId: 641446

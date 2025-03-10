@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e335daf93e3f103b0f5c77bb1f8d6453dfbfefd07781278bd8150a378c86faaf
-size 458
+fileFormatVersion: 2
+guid: 4d41891c5bf73df408284150d34541ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/Vhacd/VhacdInterface.cs
+  uploadId: 635387

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1f9c0fe18a6f4b3524387b1205c0a31cf3621c42e98f05279600d24bec08980d
-size 402
+fileFormatVersion: 2
+guid: d76edc22126773d46a2ff9973faaac3f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Docs/Exclude cells - Sampling Providers.pdf
+  uploadId: 694221

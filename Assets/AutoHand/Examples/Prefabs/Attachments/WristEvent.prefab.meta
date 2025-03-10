@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1018dd3421b2a9f4ce1e054b3994b3c9461281e3bb7d373ab26e706b2d0d145c
-size 371
+fileFormatVersion: 2
+guid: 7183ed14a173e1c4aac8a77d79558326
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Attachments/WristEvent.prefab
+  uploadId: 732376

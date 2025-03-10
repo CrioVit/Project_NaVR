@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30eb0df23b963ad4ce619059f2b1f1a0df505640172c56bb85eecf766ce7dac5
-size 361
+fileFormatVersion: 2
+guid: 63fee9abd3eaf564b81dc332e5b5955d
+timeCreated: 1534419389
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/lmAO.ptx
+  uploadId: 641446

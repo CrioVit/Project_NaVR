@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5ecb9556bfa387b564c25b5c91d052040486b387d22529de751263a2194ab17d
-size 365
+fileFormatVersion: 2
+guid: a18b647ece002404089338702cc8556c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Demo/BounceyBall.prefab
+  uploadId: 732376

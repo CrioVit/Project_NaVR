@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4e7c8d96cc573321aaba2a7d32ca868e106cedb304366b8a45e907ff7b3bcfe7
-size 459
+fileFormatVersion: 2
+guid: deaaad8894b0c8b48a9092a8e1d487ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/Skinned/BoneHullData.cs
+  uploadId: 635387

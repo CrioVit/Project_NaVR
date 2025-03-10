@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:688e0e38a98528ce9ddcabe23b44d6b1c1904c769127b90f58035a82675c6cb0
-size 658
+fileFormatVersion: 2
+guid: d80edf00be4412f4a8d75b2729d47c14
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Sounds/GrabSound.mp3
+  uploadId: 732376

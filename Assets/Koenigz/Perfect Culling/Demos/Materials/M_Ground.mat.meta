@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a8f2dcc0fd4a11aa8f0d21d3deda1dbc29767e2344087089ac2df2c876a14d6
-size 420
+fileFormatVersion: 2
+guid: 4cae74bb936ab614da4f79a719517f07
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Demos/Materials/M_Ground.mat
+  uploadId: 694221

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c852c797f092674d03d04b61d918f1ee1d5ce438437a393729e9e8caebade62b
-size 380
+fileFormatVersion: 2
+guid: 984c694004cb1774f9cac4c7c8b71ebb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Hand.mat
+  uploadId: 732376

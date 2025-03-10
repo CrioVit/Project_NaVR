@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9fa312c1244c4604cc59c01a80ac67a9a7294ce153f5444d0371c67aa597b8a2
-size 372
+fileFormatVersion: 2
+guid: 714af25f7b64c33488706766cd8ee724
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Docs/LODs.pdf
+  uploadId: 694221

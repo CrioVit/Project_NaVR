@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:857fd934ae49a56b5fc77c3dc0bd824d754c75ff3fd38902899cf7e5abd79335
-size 461
+fileFormatVersion: 2
+guid: 271c5f0aab7c79c4baf763651deb6b8c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Gadget Demo/JoystickObjectMover.cs
+  uploadId: 732376

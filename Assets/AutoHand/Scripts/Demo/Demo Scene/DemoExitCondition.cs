@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e71d1be4bf511ab5b8cc62bd7089add2e45c87562a6e0d7e3863f19b38050af
-size 408
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class DemoExitCondition : MonoBehaviour
+{
+    void Update(){
+        if (Input.GetKeyDown(KeyCode.Space)){
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+        if (Input.GetKeyDown(KeyCode.Escape)){
+            Application.Quit();
+        }
+    }
+}

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8598cb2fed3c6c3ebaa27d87123a5efec3d4d7c4733d4a46f699a1cbf2d4e95
-size 438
+fileFormatVersion: 2
+guid: fad2f22fe18c2bf46b033941144afa2e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Tools/Smasher.cs
+  uploadId: 732376

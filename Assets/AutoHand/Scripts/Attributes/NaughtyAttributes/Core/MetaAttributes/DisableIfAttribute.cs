@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8627f2dbb2aecdb04b2535945f33a867dfbb88ad8dbc08359b27686eb0446c93
-size 612
+﻿using System;
+
+namespace NaughtyAttributes
+{
+	[AttributeUsage(AttributeTargets.Field | AttributeTargets.Method, AllowMultiple = false, Inherited = true)]
+	public class DisableIfAttribute : EnableIfAttributeBase
+	{
+		public DisableIfAttribute(string condition)
+			: base(condition)
+		{
+			Inverted = true;
+		}
+
+		public DisableIfAttribute(EConditionOperator conditionOperator, params string[] conditions)
+			: base(conditionOperator, conditions)
+		{
+			Inverted = true;
+		}
+
+		public DisableIfAttribute(string enumName, object enumValue)
+			: base(enumName, enumValue as Enum)
+		{
+			Inverted = true;
+		}
+	}
+}

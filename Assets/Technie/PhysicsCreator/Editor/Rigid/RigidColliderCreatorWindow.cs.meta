@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62030b6f6a6408a870805f8bc9a2092e1fbf47dd3729c2fea47a6965edee4cf5
-size 491
+fileFormatVersion: 2
+guid: a952684a64956d842affe7a3ec467ac3
+timeCreated: 1463596424
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/Rigid/RigidColliderCreatorWindow.cs
+  uploadId: 635387

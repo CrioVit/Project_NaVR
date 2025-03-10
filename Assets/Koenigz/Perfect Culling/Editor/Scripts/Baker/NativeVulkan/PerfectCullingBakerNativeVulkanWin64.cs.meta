@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d610779f2bbe3c9aca473e62c2f028887444e3ac782fa9ced7b2ae0cef994698
-size 520
+fileFormatVersion: 2
+guid: e64e0ded54a1e7a448523fb6108a5c04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Editor/Scripts/Baker/NativeVulkan/PerfectCullingBakerNativeVulkanWin64.cs
+  uploadId: 694221

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d57fb960c2e9d0504a0175d164ce6a1d726d8baaeaeb3526a36961e4431ee36d
-size 366
+fileFormatVersion: 2
+guid: 31723c36feaba3a43a6a56c27e94b3bf
+timeCreated: 1651232185
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/ftraceRTX.exe
+  uploadId: 641446

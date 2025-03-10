@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:500fcef4783a029e99dca485512d28ca6477f8613ce70197203af90876b44ec9
-size 363
+fileFormatVersion: 2
+guid: 8714cded3f3d6d64681ce7f4c7b804a6
+timeCreated: 1526161016
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/dilate.ptx
+  uploadId: 641446

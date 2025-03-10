@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a80a11915c4525401ac45f07587280450546f69948a65d2423dd66e3f0040b63
-size 396
+fileFormatVersion: 2
+guid: f1386c908e92ef64287e16194552143d
+timeCreated: 1527275740
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/shaderSrc/ftrace.cginc
+  uploadId: 641446

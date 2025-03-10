@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4158517b86ce25dbd271f01a15acb95878fe183ca08486b6762e73c4250a4b27
-size 398
+fileFormatVersion: 2
+guid: 8973876953f8b6542acfcbdcf48a6c80
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Poses/GrabStick.asset
+  uploadId: 732376

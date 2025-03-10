@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0279a0a73b0b6a06d0b8a2cc64ac81c31ffc544b807f69cc468fd238f1edfe60
-size 350
+fileFormatVersion: 2
+guid: f94434b84fff7e648a8e5729e6ecc64c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Documents/CREDITS.txt
+  uploadId: 732376

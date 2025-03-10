@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9950d1ee29915af1f15753b9664cf40b04c287963de8caf08d12e33b1255da8a
-size 472
+fileFormatVersion: 2
+guid: 2a6c8795da0e1b24e8614596363fd720
+timeCreated: 1469376638
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/QHull/Vertex.cs
+  uploadId: 635387

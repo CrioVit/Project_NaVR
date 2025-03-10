@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fb18922a99eddcf62f93f6138ee967c8ba4527dd59e57bb4cca103f8a97538b8
-size 365
+fileFormatVersion: 2
+guid: 00324aa8cc137c44cb8bdb89b0b85076
+timeCreated: 1562931708
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/denoiser.exe
+  uploadId: 641446

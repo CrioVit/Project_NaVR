@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c2cfed55168a3637ed1506d1646dc745539fd3a6b48c4941eed0b783d2a787cd
-size 451
+fileFormatVersion: 2
+guid: 5e0938fd494e5f74da83d0fe188a5ac1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/BETA/GrabbablePoseAnimaion.cs
+  uploadId: 732376

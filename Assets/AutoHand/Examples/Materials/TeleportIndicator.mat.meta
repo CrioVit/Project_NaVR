@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6ce7bdf2352d06b5d27a0b6e46938fe1851f3fae02320b41bc2d9a2d49aa530
-size 393
+fileFormatVersion: 2
+guid: 3067e6bb4969b8e419c15a91aefd3810
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/TeleportIndicator.mat
+  uploadId: 732376

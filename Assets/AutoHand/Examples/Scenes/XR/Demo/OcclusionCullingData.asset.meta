@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7efaa1bfe9c9126ad90576c1bb2cc9b3d7b87542c86ae0a7b935bfc46b55d5c
-size 410
+fileFormatVersion: 2
+guid: 7f04c4e559351374aa71606fb6bc9218
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Scenes/XR/Demo/OcclusionCullingData.asset
+  uploadId: 732376

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7214926962f472e5ae7ec58fb2178376741a62164f5056c311733da09c9d01fa
-size 449
+fileFormatVersion: 2
+guid: 139b5ce1913c58b4f88768f1a1ebb162
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Shaders/Unlit Occlusion Tag Vertex.shader
+  uploadId: 694221

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6cfd5fb1cd5081004db15c7c62b9354e5bf2073b29be2154bdbe2124734065de
-size 386
+fileFormatVersion: 2
+guid: 06b4ed554edfece43b570527a652d54e
+timeCreated: 1533631323
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/ftSimpleVertexLM.shader
+  uploadId: 641446

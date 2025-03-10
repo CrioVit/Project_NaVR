@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f0fcab5fd5e42afe4585fd18ca2d621b1ce7897f4e421628e9dd7b734cb03612
-size 447
+fileFormatVersion: 2
+guid: fe6db899177c9e348ba7b46314349499
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Tools/CollisionIgnores.cs
+  uploadId: 732376

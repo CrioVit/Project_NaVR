@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:113ad59bc6185c2944ff0d2ede0213254fa2b302fe59f9cba71d41298a72609d
-size 454
+fileFormatVersion: 2
+guid: 0cda45b152157704da8492890fb2178e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/QHull/QHullUtil.cs
+  uploadId: 635387

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f743b9c2bbf0c2562d6ae0930f843ca630a726357bcc6c5f060cbfca0e2deaa2
-size 363
+fileFormatVersion: 2
+guid: 78a6638ced92b9e4b9b75eeaaf28b6a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Demo/StabTower.prefab
+  uploadId: 732376

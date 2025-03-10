@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e96c18fdc9cfd7d17dae3f281e9b831e66ff01e39b57b574fa9b212c8d20025d
-size 360
+fileFormatVersion: 2
+guid: f0d6d92c12b023c43862a21ecf52f0ea
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Kitchen/Sub.prefab
+  uploadId: 732376

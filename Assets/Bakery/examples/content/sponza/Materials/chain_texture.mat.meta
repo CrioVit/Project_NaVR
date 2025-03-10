@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:38ccb43fad9f4203daaff81aadf2d4d8500facf47c408b310b6b92a587107e76
-size 426
+fileFormatVersion: 2
+guid: fad945c96c6cc644189e189f415243cc
+timeCreated: 1523975816
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/sponza/Materials/chain_texture.mat
+  uploadId: 641446

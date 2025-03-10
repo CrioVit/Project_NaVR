@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f3cc30ee978b28f9378b774da3e48b2e960f635e8e5c3c50b0cfab9b540f516e
-size 365
+fileFormatVersion: 2
+guid: b587e8104b43940479f216b6dee30a8a
+timeCreated: 1537452995
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/rgba2tga.exe
+  uploadId: 641446

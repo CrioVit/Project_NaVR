@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf75e175ffc5c8a83ce76a554835ece21f12942791dd3fce775f550ebb817be5
-size 450
+fileFormatVersion: 2
+guid: a7fde2ea15f1d9345bf66fa593ba03d5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Examples/Example Scene Assets/Physics
+    Hulls/Technie Arch Hull Data.asset
+  uploadId: 635387

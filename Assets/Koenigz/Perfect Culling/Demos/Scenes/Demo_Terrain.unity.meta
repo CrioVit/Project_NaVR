@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ea905c773b4e41d2a1629e1b8b6a6335ae1da19594b93e06e7d31980cbe93cc5
-size 390
+fileFormatVersion: 2
+guid: 453e5be6456b6a649ba90a7da6e0f232
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Demos/Scenes/Demo_Terrain.unity
+  uploadId: 694221

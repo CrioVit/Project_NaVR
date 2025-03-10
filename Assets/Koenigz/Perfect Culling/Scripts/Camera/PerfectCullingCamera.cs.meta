@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c91ff9a03ab618bf999cf2a418b8d74d33f26494303bc8731fd7112422fdd79
-size 485
+fileFormatVersion: 2
+guid: 27a8b1fdce814504ba2c2525e18bfe3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Scripts/Camera/PerfectCullingCamera.cs
+  uploadId: 694221

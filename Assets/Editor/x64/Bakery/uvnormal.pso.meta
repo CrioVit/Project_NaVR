@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7d17d23564266ece95c7a4fe42b5a03cfd61b530be04a50e6a4933619a7f5176
-size 365
+fileFormatVersion: 2
+guid: 3d59ccae59201de44933767a99edbefb
+timeCreated: 1526244101
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/uvnormal.pso
+  uploadId: 641446

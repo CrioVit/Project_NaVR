@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:96f380145d4a114788b241cf86c38c533b7b9ec2e78341e2d1df561307f0bb18
-size 550
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using Autohand;
+
+namespace Autohand.Demo{
+    public class WheelRotator : PhysicsGadgetHingeAngleReader{
+        public Transform move;
+        public Vector3 angle;
+        public bool useLocal = false;
+        
+
+        void Update(){
+
+            if(useLocal)
+                move.localRotation *= Quaternion.Euler(angle*Time.deltaTime*GetValue());
+            else
+                move.rotation *= Quaternion.Euler(angle*Time.deltaTime*GetValue());
+        }
+    }
+}

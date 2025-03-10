@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bffcf61fa31ace0a645d9ad9e15ab2c95825018c4ab56b85da56fe4fa72d1f26
-size 425
+fileFormatVersion: 2
+guid: b26197720b91cf944bd1e017b9135eef
+timeCreated: 1559472104
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/example_prefabs_bake_skybox.asset
+  uploadId: 641446

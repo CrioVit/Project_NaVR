@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:092daf2bf236578b95dd2923f3b9bb5f849fb963538ab57fa9384e680e9faef1
-size 363
+fileFormatVersion: 2
+guid: a00df5c0fc1c6f44e8d06376a470a0b4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Demo/Briefcase.prefab
+  uploadId: 732376

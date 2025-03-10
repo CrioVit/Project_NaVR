@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d8bdf3427a236913af74103a76ec849483dc8b00b36e4c13b06aef7658c93a4c
-size 375
+fileFormatVersion: 2
+guid: 3d02d5839345a174bab4453b5f875f70
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Simple Grab Shapes/Capsule.prefab
+  uploadId: 732376

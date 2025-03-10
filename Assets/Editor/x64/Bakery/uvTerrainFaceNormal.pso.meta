@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:217a7e9dd07196c91b293a752b5cd76e51b1a2761409167106fc371535eff0b2
-size 376
+fileFormatVersion: 2
+guid: 6b9cf8e9582d4164da6853815e912961
+timeCreated: 1547582998
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/uvTerrainFaceNormal.pso
+  uploadId: 641446

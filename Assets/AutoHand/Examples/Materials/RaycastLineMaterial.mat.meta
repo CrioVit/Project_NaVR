@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92a5157917381f247473da42941beb7aac5758bc2bb6c1c8aa72904ca2d24def
-size 401
+fileFormatVersion: 2
+guid: 7eda17a7fd0c49947beadf77a24d0080
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/RaycastLineMaterial.mat
+  uploadId: 732376

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e4cab548a15a923123f299e59eaf2ca71d2162e4dc6ef6f069c356939fc0865d
-size 516
+fileFormatVersion: 2
+guid: df1a0a3eefda0674a9adbf463b31b5bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Scripts/SamplingProviders/ExcludeTooFarFromNavMeshSamplingProvider.cs
+  uploadId: 694221

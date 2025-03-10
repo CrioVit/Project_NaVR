@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:839cce067a502e19c3df83b7bd1594c0ce57675d058f9f23ee215ff1a9640964
-size 366
+fileFormatVersion: 2
+guid: 9a6154b9813b7fc498be837d830c55de
+timeCreated: 1537355888
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/uvtangent.pso
+  uploadId: 641446

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f37e1fc3b424484614d7d2476c6871e3acbb195f780c70f8d2dfc144b0502e5
-size 456
+fileFormatVersion: 2
+guid: e60991076b441d74583b964da728a358
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Examples/Example Scene Assets/Physics
+    Hulls/Technie Floor Quad Hull Data.asset
+  uploadId: 635387

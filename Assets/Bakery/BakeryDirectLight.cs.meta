@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6649d2537e350d1b37e1e3e8199f1ff991ad3748cc66c14b9c461ffc79b6f430
-size 450
+fileFormatVersion: 2
+guid: c74ce2158ae608549902afb4112fd042
+timeCreated: 1526382158
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/BakeryDirectLight.cs
+  uploadId: 641446

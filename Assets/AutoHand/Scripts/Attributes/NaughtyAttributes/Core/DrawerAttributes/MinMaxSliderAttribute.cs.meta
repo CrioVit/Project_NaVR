@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ba388e8c940eb7e3db57b61c4eaa5086eb516f43bb333936e21eee03d87b22d4
-size 497
+fileFormatVersion: 2
+guid: 4aaa73f574deaa54187cb54aae571b24
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Attributes/NaughtyAttributes/Core/DrawerAttributes/MinMaxSliderAttribute.cs
+  uploadId: 732376

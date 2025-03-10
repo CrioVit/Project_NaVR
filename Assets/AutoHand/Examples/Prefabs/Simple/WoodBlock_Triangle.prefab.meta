@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ee84825d9ad90a97ee8585b1bed937bce2a3252978e6ed85994ab6675d372ac
-size 374
+fileFormatVersion: 2
+guid: cdb1d40533c6e0747a2c19c798ca8586
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Simple/WoodBlock_Triangle.prefab
+  uploadId: 732376

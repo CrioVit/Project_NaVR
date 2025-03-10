@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1e9d25eee0df38032dc0e0ea7cb918d3a273be5d56b94a0a87640c2ba3c4bc50
-size 283
+fileFormatVersion: 2
+guid: f64a1c82ed6e468468d3396fc8f0ecae
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Scenes/Desktop/HandDesktopControllerLink.cs
+  uploadId: 732376

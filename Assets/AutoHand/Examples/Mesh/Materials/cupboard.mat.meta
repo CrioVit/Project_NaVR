@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99a034b2adb9e63e3e1dc191b81072c351d7db1ecd050b68d30d686e4e9d5b8b
-size 395
+fileFormatVersion: 2
+guid: 82afc7b0a7cb7444b85937e4691182fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Mesh/Materials/cupboard.mat
+  uploadId: 732376

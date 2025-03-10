@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88f428d0039d0a0b011f7deb024e67927d6ab3516ae23a0fcde753af37adc7a5
-size 293
+fileFormatVersion: 2
+guid: f8e46267797f6a14884e8e94062539fc
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/yellowlight.mat
+  uploadId: 641446

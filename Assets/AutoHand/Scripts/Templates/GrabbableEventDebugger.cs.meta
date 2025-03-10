@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:707ad196c0a1063b528682fc56691905ed3d225bdfee2ae6191591f10aac79d1
-size 457
+fileFormatVersion: 2
+guid: 84b1fb89c46159949aa89dc678cd2a5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Templates/GrabbableEventDebugger.cs
+  uploadId: 732376

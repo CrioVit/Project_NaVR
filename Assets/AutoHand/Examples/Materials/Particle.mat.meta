@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2689affff6fad20cea430b4bd4144196caed30bb181c44363a5fc31915c92e7e
-size 390
+fileFormatVersion: 2
+guid: 27689c074f0479347a04bb3c3170e09d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Particle.mat
+  uploadId: 732376

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e14d70c51d6e7d36ad130c64866259bb1c2b152084e91d6a6df4981865b5c06
-size 395
+fileFormatVersion: 2
+guid: 6d918f38df8a649468d5e740775c9377
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/GreyDevGrid_Diffuse.mat
+  uploadId: 732376

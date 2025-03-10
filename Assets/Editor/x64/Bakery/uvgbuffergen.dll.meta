@@ -1,3 +1,35 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc5ec4b790a7ef5df3dd123b0c0d79bffd229e91101b217db4d9b35e87e70ef7
-size 728
+fileFormatVersion: 2
+guid: 4f43553a851bba149b8ab4806d42cc33
+timeCreated: 1526154090
+licenseType: Store
+PluginImporter:
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+    data:
+      first:
+        Any: 
+      second:
+        enabled: 0
+        settings: {}
+    data:
+      first:
+        Editor: Editor
+      second:
+        enabled: 1
+        settings:
+          CPU: x86_64
+          DefaultValueInitialized: true
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/uvgbuffergen.dll
+  uploadId: 641446

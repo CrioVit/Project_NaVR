@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89c1af7ca4bce5a359c09b64e5b2a5f99bbd19d66fc0093d5278ad450f24368d
-size 360
+fileFormatVersion: 2
+guid: bafa7ceee5a1e494e9d6bb142e696386
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Kitchen/mug.prefab
+  uploadId: 732376

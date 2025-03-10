@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c1126b667c7c2a62afcadf4e638c359b729d71f0345d0f8e250a39fc2806549e
-size 368
+fileFormatVersion: 2
+guid: d83426084209bab47bfdba17f46666ba
+timeCreated: 1529763005
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/mulHalfByte.ptx
+  uploadId: 641446

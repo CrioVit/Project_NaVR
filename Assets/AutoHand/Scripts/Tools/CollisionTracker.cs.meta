@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9c6dfc70c63bfe3647bb141c756ce081a0f35574a4fb98d530def8a681825736
-size 447
+fileFormatVersion: 2
+guid: 21360bf2f4ba84149856028de8de2c89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Tools/CollisionTracker.cs
+  uploadId: 732376

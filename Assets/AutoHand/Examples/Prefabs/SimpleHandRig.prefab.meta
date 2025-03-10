@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23d4de2e7ea515de6c5a5e8aed8416b56fb2595fbbc9bad90d6838d0699c5ade
-size 362
+fileFormatVersion: 2
+guid: 7c363f47ffc30e249922c6edc608f9ea
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/SimpleHandRig.prefab
+  uploadId: 732376

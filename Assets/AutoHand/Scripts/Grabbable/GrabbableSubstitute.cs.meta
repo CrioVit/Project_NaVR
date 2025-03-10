@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b3802647e71cc8b98080ad3b1e22f3e03f693c5a6e5a9c5a631e84151c88d81
-size 454
+fileFormatVersion: 2
+guid: 3f1287143c1c3fa478149aeec0c569a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Grabbable/GrabbableSubstitute.cs
+  uploadId: 732376

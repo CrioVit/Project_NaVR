@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe8936a2cc42f2f50e9ca5944935e3058d67040081f3dc91a54475c53837918e
-size 456
+{
+  "name": "com.earnestrobot.autohand",
+  "displayName": "Auto Hand",
+  "version": "4.0.0",
+  "unity": "2020.3",
+  "unityRelease": "17f1",
+  "keywords": [
+    "Hand",
+    "Auto",
+    "VR",
+    "Auto Hand"
+  ],
+  "description": "Auto hand is a physics based VR interaction system that calculates hand pose on grab",
+  "dependencies": {},
+  "author": {
+    "name": "Earnest Robot",
+    "email": "earnestrobot@gmail.com",
+    "url": "earnestrobot.net"
+  }
+}

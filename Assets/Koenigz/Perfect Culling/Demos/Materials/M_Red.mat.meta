@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9a6f5d61f938aa6ed7e23ee5b8df4c80ae42519c2f6e8e9b705e1a42e4888a52
-size 417
+fileFormatVersion: 2
+guid: c4196694ae4933e43b7b0993740bd068
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Demos/Materials/M_Red.mat
+  uploadId: 694221

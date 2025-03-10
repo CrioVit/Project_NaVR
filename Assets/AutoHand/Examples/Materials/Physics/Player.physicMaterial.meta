@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:44a9078388cd0a2631b2f9a36b19a99633370ebea36be29b052060f43bf779ff
-size 401
+fileFormatVersion: 2
+guid: e56fd3eb6e03b7b4abbb4d9371509be5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Physics/Player.physicMaterial
+  uploadId: 732376

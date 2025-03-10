@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9336cdd7bbe2cd7f104f2c98216dc909a1cca6f9097decc33f0cf4af5aeab358
-size 383
+fileFormatVersion: 2
+guid: 98e1b190bbdc3a740a9d358c3d446747
+timeCreated: 1537271568
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/ftUVNormalMap.shader
+  uploadId: 641446

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:777c5942c64e02e1c6d249d88be38ff5ad04ea6aef0fa362575258a8bb679a67
-size 500
+fileFormatVersion: 2
+guid: dfdfe8b913b940f4791670cc83ccab6d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Editor/Scripts/Editor/PerfectCullingBakeDataEditor.cs
+  uploadId: 694221

@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4816802277ea73201934fcd589cc02bdd0eee2ccd280810770b77e9982b217e5
-size 405
+﻿using System;
+
+namespace NaughtyAttributes
+{
+	[AttributeUsage(AttributeTargets.Field, AllowMultiple = false, Inherited = true)]
+	public class MinMaxSliderAttribute : DrawerAttribute
+	{
+		public float MinValue { get; private set; }
+		public float MaxValue { get; private set; }
+
+		public MinMaxSliderAttribute(float minValue, float maxValue)
+		{
+			MinValue = minValue;
+			MaxValue = maxValue;
+		}
+	}
+}

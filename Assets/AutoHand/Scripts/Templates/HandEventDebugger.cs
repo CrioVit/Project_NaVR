@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:09739e2aaa60329e0d6fa7fe444905af4da07ff32a17f10f7e7f4fb03682fd69
-size 2529
+using Autohand;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+
+namespace Autohand.Demo {
+    [RequireComponent(typeof(Hand))]
+    public class HandEventDebugger : MonoBehaviour
+    {
+        public bool showSqueezeEvents = true;
+        public bool showHighlightEvents = true;
+
+        private void OnEnable()
+        {
+            var hand1 = GetComponent<Hand>();
+            hand1.OnBeforeGrabbed += (hand, grabbable) => { Debug.Log(hand.name + " BEFORE GRAB EVENT", this); };
+            hand1.OnGrabbed += (hand, grabbable) => { Debug.Log(hand.name + " GRAB EVENT", this); };
+            hand1.OnReleased += (hand, grabbable) => { Debug.Log(hand.name + " RELEASE EVENT", this); };
+            hand1.OnGrabJointBreak += (hand, grabbable) => { Debug.Log(hand.name + " JOINT BREAK EVENT", this); };
+            
+            if(showSqueezeEvents) hand1.OnSqueezed += (hand, grabbable) => { Debug.Log(hand.name + " SQUEEZE EVENT", this); };
+            if (showSqueezeEvents) hand1.OnUnsqueezed += (hand, grabbable) => { Debug.Log(hand.name + " UNSQUEEZE EVENT", this); };
+            if (showHighlightEvents) hand1.highlighter.OnHighlight += (hand, grabbable) => { Debug.Log(hand.name + " HIGHLIGHT EVENT", this); };
+            if (showHighlightEvents) hand1.highlighter.OnStopHighlight += (hand, grabbable) => { Debug.Log(hand.name + " UNHIGHLIGHT EVENT", this); };
+        }
+
+        private void OnDisable()
+        {
+            var hand1 = GetComponent<Hand>();
+            hand1.OnBeforeGrabbed -= (hand, grabbable) => { Debug.Log(hand.name + " BEFORE GRAB EVENT", this); };
+            hand1.OnGrabbed -= (hand, grabbable) => { Debug.Log(hand.name + " GRAB EVENT", this); };
+            hand1.OnReleased -= (hand, grabbable) => { Debug.Log(hand.name + " RELEASE EVENT", this); };
+            hand1.OnGrabJointBreak -= (hand, grabbable) => { Debug.Log(hand.name + " CONNECTION BREAK EVENT", this); };
+            
+            if (showSqueezeEvents) hand1.OnSqueezed -= (hand, grabbable) => { Debug.Log(hand.name + " SQUEEZE EVENT", this); };
+            if (showSqueezeEvents) hand1.OnUnsqueezed -= (hand, grabbable) => { Debug.Log(hand.name + " UNSQUEEZE EVENT", this); };
+            if (showHighlightEvents) hand1.highlighter.OnHighlight -= (hand, grabbable) => { Debug.Log(hand.name + " HIGHLIGHT EVENT", this); };
+            if (showHighlightEvents) hand1.highlighter.OnStopHighlight -= (hand, grabbable) => { Debug.Log(hand.name + " UNHIGHLIGHT EVENT", this); };
+        }
+    }
+}

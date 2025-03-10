@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98b0205d7074727d672dc1dcf2884f263003403b50fb99b1c8cd024c63f950f0
-size 389
+fileFormatVersion: 2
+guid: 931ec1b7cfa5bbd49a82f46676bdbbda
+timeCreated: 1526836856
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/ftFarSphereProjClip.shader
+  uploadId: 641446

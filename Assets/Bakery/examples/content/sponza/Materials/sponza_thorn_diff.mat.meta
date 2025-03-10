@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5cee8ff0d8581c0d7542c7a641d1351f0b04f618c8cee1ad243a6f86b574ab77
-size 430
+fileFormatVersion: 2
+guid: 8b6eaea6571dc8c4bb6f439c3652bfca
+timeCreated: 1523975805
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/sponza/Materials/sponza_thorn_diff.mat
+  uploadId: 641446

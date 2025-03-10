@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6cfa6ae15a5be37f433c689ea813109aa5c4e2098dd9678fbb2156d61ab48a7
-size 447
+fileFormatVersion: 2
+guid: b60be02ef0d5a3b4eb31db45731d0a09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/Shortcuts.cs
+  uploadId: 635387

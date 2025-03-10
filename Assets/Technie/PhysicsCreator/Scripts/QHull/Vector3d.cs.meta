@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:74b4061ea746fc863538132df729f1bdb50192dea2c699ef3ee3b663ebd9affe
-size 474
+fileFormatVersion: 2
+guid: bd66ffd925e6bef4e931def55cc01633
+timeCreated: 1469376638
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/QHull/Vector3d.cs
+  uploadId: 635387

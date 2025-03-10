@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1978cee3c5015cd6c9794e1d8a0c4b0fba1efd7b510a91362613a73ee090dbc
-size 656
+﻿using System;
+using UnityEngine;
+
+namespace NaughtyAttributes
+{
+	[AttributeUsage(AttributeTargets.Field, AllowMultiple = false, Inherited = true)]
+	public class AnimatorParamAttribute : DrawerAttribute
+	{
+		public string AnimatorName { get; private set; }
+		public AnimatorControllerParameterType? AnimatorParamType { get; private set; }
+
+		public AnimatorParamAttribute(string animatorName)
+		{
+			AnimatorName = animatorName;
+			AnimatorParamType = null;
+		}
+
+		public AnimatorParamAttribute(string animatorName, AnimatorControllerParameterType animatorParamType)
+		{
+			AnimatorName = animatorName;
+			AnimatorParamType = animatorParamType;
+		}
+	}
+}

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8706138070293a19e0a724a19b94289fcfb9cf0d9d47cda23fad2ec33d05448e
-size 394
+fileFormatVersion: 2
+guid: c31d50da9b0f6664684e6ea31dbcff69
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Demos/Scenes/Demo_CustomGroup.unity
+  uploadId: 694221

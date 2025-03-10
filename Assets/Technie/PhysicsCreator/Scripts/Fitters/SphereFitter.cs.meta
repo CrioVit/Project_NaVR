@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1e99bb7f9524775e6a43ead0789725d9980ab0285cde4e7671abc780594b3543
-size 459
+fileFormatVersion: 2
+guid: 4e8a08963ab6de04696754fa6d49970b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/Fitters/SphereFitter.cs
+  uploadId: 635387

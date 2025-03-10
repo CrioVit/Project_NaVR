@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2de6bff6186b551346e025091f56d24420d8fc96a357d5cd073d80862bb754b
-size 364
+fileFormatVersion: 2
+guid: f4bc6400cc86bc442a0d73ad5b07cd81
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Gadgets/Stabber.prefab
+  uploadId: 732376

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:640563793876b7baab0be46248ab975762e1c1ba37b5181b2e4f2383b27f89e4
-size 462
+fileFormatVersion: 2
+guid: 097d5c968a806bf43979b2a0b971ecf3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Movement/InterpolatedTransformUpdater.cs
+  uploadId: 732376

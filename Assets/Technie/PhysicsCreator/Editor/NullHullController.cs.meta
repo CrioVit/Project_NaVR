@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:421b28bf1d797ceec15c949e4173091ce1ab2163d59a441b3c9be36f9ee041c7
-size 456
+fileFormatVersion: 2
+guid: a0f8b510c1972a34387fa7a8e80911f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/NullHullController.cs
+  uploadId: 635387

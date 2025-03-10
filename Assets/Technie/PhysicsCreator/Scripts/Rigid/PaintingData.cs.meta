@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:caceaf56faa1a6802779c773b8694e23017a3c82acbb824e1bbcd6e7e6f27f45
-size 478
+fileFormatVersion: 2
+guid: 0de965f2e710c1c489ead8e62cd25da0
+timeCreated: 1463593683
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/Rigid/PaintingData.cs
+  uploadId: 635387

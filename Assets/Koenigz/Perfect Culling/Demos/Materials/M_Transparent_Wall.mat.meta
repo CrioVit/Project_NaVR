@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2b43659c9c24ab3bbee1563ab5b7e1cba60a71f120a664c8b21e0b72d2a6b959
-size 430
+fileFormatVersion: 2
+guid: 42e9d740c8a8abb4a9051759df1c8cbb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Demos/Materials/M_Transparent_Wall.mat
+  uploadId: 694221

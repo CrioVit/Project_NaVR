@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ba0a0e8d03fe982f37adb8beebdbef8092c9f02aad4d25193c3f5319a2bfb85
-size 383
+fileFormatVersion: 2
+guid: 8afc03e02f76c184dab6a8f59bc2b4f8
+timeCreated: 1539458740
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/example_directional_MonoSH.unity
+  uploadId: 641446

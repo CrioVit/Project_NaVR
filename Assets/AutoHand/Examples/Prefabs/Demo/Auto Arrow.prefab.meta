@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76e3a7b5d5bc7d82c65e2301009b71840c98641799c77e6901c10effad66c0d3
-size 364
+fileFormatVersion: 2
+guid: 7215f3236fc9ed24cb94dca2e77f22eb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Demo/Auto Arrow.prefab
+  uploadId: 732376

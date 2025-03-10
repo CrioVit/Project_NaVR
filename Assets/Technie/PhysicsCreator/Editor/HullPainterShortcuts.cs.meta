@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:29c9c4cf8f3b326818dec05cec37462bef576ddccd57908595b1bc7a4d74bc6f
-size 458
+fileFormatVersion: 2
+guid: 9d1039e04fef14d4da68fe371e8c9ab5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/HullPainterShortcuts.cs
+  uploadId: 635387

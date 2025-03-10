@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:00cdd6ee15e5e6780c34f9090fc1e14336ae7d4980015ce979b4125a94bae4f2
-size 372
+fileFormatVersion: 2
+guid: e65c11674cb367f479c518d362e91279
+timeCreated: 1537814797
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/lmCookieLightSH.ptx
+  uploadId: 641446

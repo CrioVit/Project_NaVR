@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:24356898c6172f5fb0c2254fb5d15cfbf6200702dcfcc402912fbd31c2e6f01f
-size 329
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!134 &13400000
+PhysicMaterial:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SuperBouncey
+  dynamicFriction: 0.1
+  staticFriction: 0.1
+  bounciness: 1
+  frictionCombine: 1
+  bounceCombine: 3

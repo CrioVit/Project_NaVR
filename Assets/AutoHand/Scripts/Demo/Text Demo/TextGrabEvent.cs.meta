@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:603ecbca8742bf377c40a30000eecd094523b2d664a84c5d414acc0984fc0799
-size 453
+fileFormatVersion: 2
+guid: b2aea2de75c7aac428a4c2cc43c65b46
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Text Demo/TextGrabEvent.cs
+  uploadId: 732376

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:929cf66d5c27715dddb0eef0d8a21fb5fc593f00eaf688b7c1859a77ce0d9e91
-size 378
+fileFormatVersion: 2
+guid: c8cc3e186c541f84795a68c473f211d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Simple Grab Shapes/SemiSphere.prefab
+  uploadId: 732376

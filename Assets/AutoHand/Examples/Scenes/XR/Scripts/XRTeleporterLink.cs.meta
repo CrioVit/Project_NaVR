@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5edf83bf9af0c13563402739b959d938ac18d2b670a2d92728813472ac38c7b9
-size 460
+fileFormatVersion: 2
+guid: c3bafe5313773b549b22ed738a6223b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Scenes/XR/Scripts/XRTeleporterLink.cs
+  uploadId: 732376

@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9dd065ec71f8c25f3669f6a0a4faa93bd319634808a749cbf0a7ce3b4056af89
-size 801
+﻿// Perfect Culling (C) 2021 Patrick König
+//
+
+namespace Koenigz.PerfectCulling
+{
+    public enum PerfectCullingRenderToggleMode
+    {
+        /// <summary>
+        /// Toggles the Renderer component itself. This got some overhead and thus is the least efficient option.
+        /// </summary>
+        ToggleRendererComponent,
+        
+        /// <summary>
+        /// This tells the Renderer to only render shadows. Likely just culls the Renderer on lower end hardware. This option avoids shadow popping.
+        /// </summary>
+        ToggleShadowcastMode,
+        
+        /// <summary>
+        /// Most efficient way of disabling a renderer completely as it just tells Unity to skip over it. Only available in Unity 2019 or newer.
+        /// </summary>
+        ToggleForceRenderingOff
+    }
+}

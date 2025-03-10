@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7fee51bf581e1b70060ca956c67c2e5c074fb50c1cfb8baf2b3dd566006eb9b9
-size 1156
+using UnityEngine;
+using Technie.PhysicsCreator.Rigid;
+
+namespace Technie.PhysicsCreator
+{
+	
+	public class NullHullController : IHullController
+	{
+		public void Disable() { }
+
+		public void DisconnectAssets(bool deleteChildComponents) { }
+
+		public bool HasData() { return false; }
+
+		public void RecordPaintingChange(string label) { }
+
+		public void MarkPaintingDirty() { }
+
+		public bool TryPipetteSelection(int hitTriIndex) { return false; }
+
+		public void ClearActiveHull() { }
+
+		public bool HasActiveHull() { return false; }
+
+		public IHull GetActiveHull() { return null; }
+
+		public void AddToSelection(IHull hull, int hitTriIndex) { }
+
+		public void RemoveFromSelection(IHull hull, int hitTriIndex) { }
+
+		public ICreatorComponent FindSelectedColliderCreator() { return null; }
+
+		public void SyncTarget(ICreatorComponent selectedHullPainter, MeshFilter selectedMeshFilter) { }
+
+		public void PaintAllFaces() { }
+		public void UnpaintAllFaces() { }
+		public void PaintUnpaintedFaces() { }
+		public void PaintRemainingFaces() { }
+		public void GrowPaintedFaces() { }
+		public void ShrinkPaintedFaces() { }
+	}
+	
+} // namespace Technie.PhysicsCreator

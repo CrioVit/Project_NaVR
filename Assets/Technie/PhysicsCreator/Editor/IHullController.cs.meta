@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6706acc3d8fc2e22d9ed56ae4487967567a8c3d9374a46df3508e064c2caab0b
-size 453
+fileFormatVersion: 2
+guid: c72bf9f7d254a3745b6711795da8b080
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/IHullController.cs
+  uploadId: 635387

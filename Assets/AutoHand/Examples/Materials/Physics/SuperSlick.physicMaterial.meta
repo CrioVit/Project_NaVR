@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ef3ecac938dfd3dd465e6a07e534a577d0e60b9817945751718b71e4f959f30
-size 405
+fileFormatVersion: 2
+guid: f9b2e3e858956064fb1d05dd47cdaca7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Physics/SuperSlick.physicMaterial
+  uploadId: 732376

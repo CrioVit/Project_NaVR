@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:374a6f6b86a03794db2fee58a526f876454911ffd39f6a1ad9a458a781b14bc3
-size 867
+﻿Shader "Hidden/ftRGBM2Half"
+{
+	SubShader
+	{
+		// No culling or depth
+		Cull Off ZWrite Off ZTest Always
+
+		Pass
+		{
+			CGPROGRAM
+			#pragma vertex vert
+			#pragma fragment frag
+
+			#include "UnityCG.cginc"
+
+			struct appdata
+			{
+				float4 vertex : POSITION;
+				float2 uv : TEXCOORD0;
+			};
+
+			struct v2f
+			{
+				float2 uv : TEXCOORD0;
+				float4 vertex : SV_POSITION;
+			};
+
+			v2f vert (appdata v)
+			{
+				v2f o;
+				o.vertex = UnityObjectToClipPos(v.vertex);
+                #if UNITY_UV_STARTS_AT_TOP
+                o.uv = v.uv;
+                #else
+                o.uv = v.uv;
+                o.uv.y = 1-o.uv.y;
+                #endif
+				return o;
+			}
+
+			sampler2D _MainTex;
+
+			fixed4 frag (v2f i) : SV_Target
+			{
+                float4 c = tex2D(_MainTex, i.uv);
+				return float4(c.rgb * c.a * EMISSIVE_RGBM_SCALE, 1.0);
+			}
+			ENDCG
+		}
+	}
+}

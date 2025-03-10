@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7da0361e65b4ef7e06e2c8cf3cd864ad5ea8bb65fa21ab048caf54a893613573
-size 380
+fileFormatVersion: 2
+guid: ca549cc8d53c50c4cbcb2e731624ebb9
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Docs/Portal cells.pdf
+  uploadId: 694221

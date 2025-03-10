@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8af15da7516fb8f58df11526307e30513925ed8d05bea020deef4c000bfbd4bf
-size 362
+fileFormatVersion: 2
+guid: d472bf6afbaa9114fbcb6f63b506bd36
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Demo/Gold Bar.prefab
+  uploadId: 732376

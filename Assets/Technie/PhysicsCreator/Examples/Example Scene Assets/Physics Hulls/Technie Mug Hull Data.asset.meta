@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17fe7574735e1bf1174952726f07f9e5fa389a14452f00c995abf42ca16ba9e5
-size 449
+fileFormatVersion: 2
+guid: 292fd03d650bfed4f92ee0e919f897f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Examples/Example Scene Assets/Physics
+    Hulls/Technie Mug Hull Data.asset
+  uploadId: 635387

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:183b64386e239ba55b80edd18a4a8d6b5ff3904d4acff654eb59cd9e989c7e7c
-size 373
+fileFormatVersion: 2
+guid: 5554647dd6951a641a98f33de14e34a7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Gadgets/Joystick Movable.prefab
+  uploadId: 732376

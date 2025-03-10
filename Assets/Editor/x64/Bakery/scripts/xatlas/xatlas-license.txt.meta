@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c97bc3ad2fa80695d560c0fefeee887fc3138bf24c5526a78c5d63a0ac9fc5d4
-size 389
+fileFormatVersion: 2
+guid: 157fce07d9e165f4ea73f754793d6c48
+timeCreated: 1553351391
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/scripts/xatlas/xatlas-license.txt
+  uploadId: 641446

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95b904459632fcc4bc10388a37df6967fe4e39795faf02ffc142628d10df9266
-size 454
+fileFormatVersion: 2
+guid: 9bcaa22d55bd51e41aff35e61ffe7535
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Gadget Demo/WheelRotator.cs
+  uploadId: 732376

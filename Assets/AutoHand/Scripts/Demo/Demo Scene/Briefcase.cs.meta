@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ad364b4ec8d26aee08a645bc6e157d2038c112951d08a9579e897f1c7bd3cfe
-size 267
+fileFormatVersion: 2
+guid: bcba248aa04eb1e46ac301e7773478b6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Demo Scene/Briefcase.cs
+  uploadId: 732376

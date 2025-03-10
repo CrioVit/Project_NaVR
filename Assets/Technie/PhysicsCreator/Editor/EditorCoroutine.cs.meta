@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75de357d6b7f30d2dd1c604f663dbbbf4f3c8abd7623d5b6931f6fdab9f9d525
-size 453
+fileFormatVersion: 2
+guid: 7c11de581d8eb874aafe0ecaf216a9b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/EditorCoroutine.cs
+  uploadId: 635387

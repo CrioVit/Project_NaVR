@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:42efba0c245d5a75867b7938e899c5c97745a34ab041c9da68511d2692ad4d25
-size 421
+fileFormatVersion: 2
+guid: b2d65aafe04cdc5479912c90153d0b19
+timeCreated: 1523975817
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/sponza/Materials/vase_dif.mat
+  uploadId: 641446

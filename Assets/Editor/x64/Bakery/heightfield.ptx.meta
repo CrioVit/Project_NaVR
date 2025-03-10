@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9bcd7f5d73ee341330f59e7fa819607575109235a8d5b9dabcfa0d108a551d0e
-size 368
+fileFormatVersion: 2
+guid: 6d59872cbc2f1b94e9cbd52dbed696b0
+timeCreated: 1544952179
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/heightfield.ptx
+  uploadId: 641446

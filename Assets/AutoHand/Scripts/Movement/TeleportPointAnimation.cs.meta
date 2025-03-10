@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ba6fe1219a2def1e040a010a2f00bdb33f1bdf3e9e4d3f8e6724d78f0581805
-size 456
+fileFormatVersion: 2
+guid: 3fcaf767645120d4fb8ca8b1fdeed5a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Movement/TeleportPointAnimation.cs
+  uploadId: 732376

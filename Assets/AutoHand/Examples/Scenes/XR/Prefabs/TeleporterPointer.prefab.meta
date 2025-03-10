@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a0f3f0f8ec5505319c14ba553248b69dc2ab3879b20458185bd8f4b674e780c
-size 376
+fileFormatVersion: 2
+guid: 89dffe45961978543a2f1c5389c77fcf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Scenes/XR/Prefabs/TeleporterPointer.prefab
+  uploadId: 732376

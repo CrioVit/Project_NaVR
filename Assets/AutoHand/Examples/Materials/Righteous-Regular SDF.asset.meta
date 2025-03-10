@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ea07a5694c4917933c2725d07dbf72a70830c7d82f94c6d788daf130e27c033
-size 406
+fileFormatVersion: 2
+guid: f5ba820a8971fa449b12f4c76629933c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Righteous-Regular SDF.asset
+  uploadId: 732376

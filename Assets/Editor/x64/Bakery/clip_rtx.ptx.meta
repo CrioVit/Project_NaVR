@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6fb0fb2fc699e14b4f6673627b4ffc066f3c394f3c69e3c8b81ad61b5617ac55
-size 365
+fileFormatVersion: 2
+guid: 55fda1d6fc84d9e42838115c0ee88ec2
+timeCreated: 1549922863
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/clip_rtx.ptx
+  uploadId: 641446

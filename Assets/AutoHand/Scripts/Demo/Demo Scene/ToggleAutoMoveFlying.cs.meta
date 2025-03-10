@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:260615407998922d73424c7c2ae0e0b756117cf31b326a450d3f5b899cd851b9
-size 461
+fileFormatVersion: 2
+guid: b5e2349f27d04b74c8c691ab00cbcd1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Demo Scene/ToggleAutoMoveFlying.cs
+  uploadId: 732376

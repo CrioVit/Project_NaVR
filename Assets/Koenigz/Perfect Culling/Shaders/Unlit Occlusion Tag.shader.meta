@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c7b5370af77eb1fce2983981c3fb00e422fe28f59f0a7dc049f3205507c94b8a
-size 442
+fileFormatVersion: 2
+guid: 7dd29c18b73aa6a4889ccc9503b18db5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Shaders/Unlit Occlusion Tag.shader
+  uploadId: 694221

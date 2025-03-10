@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:51d23752d3710c663678a69297d3833c8cb73bbc209ee7fd6a097cb46e56f346
-size 402
+fileFormatVersion: 2
+guid: 8d08f3b82c4554e42a353632d9d2e6ac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Physics/Bouncey.physicMaterial
+  uploadId: 732376

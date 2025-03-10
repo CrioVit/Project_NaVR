@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:106c19d7bc4e567951addd64386b6c24e5ff27b2511f7af708e62b1f4f53d525
-size 375
+fileFormatVersion: 2
+guid: d844b56241baf404ebdb72952a6d36bc
+timeCreated: 1535127200
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/example_shadowmask.unity
+  uploadId: 641446

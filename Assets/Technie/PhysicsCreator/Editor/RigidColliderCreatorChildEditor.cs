@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd9091120f6f957f6e65bc0952151155ecc96d0e76e77a462f7034e850474633
-size 982
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEditor;
+
+using Technie.PhysicsCreator.Rigid;
+
+namespace Technie.PhysicsCreator
+{
+
+	[CustomEditor(typeof(RigidColliderCreatorChild))]
+	public class RigidColliderCreatorChildEditor : Editor
+	{
+		public override void OnInspectorGUI()
+		{
+			EditorGUI.BeginDisabledGroup(true);
+			DrawDefaultInspector();
+			EditorGUI.EndDisabledGroup();
+
+			RigidColliderCreatorChild child = target as RigidColliderCreatorChild;
+
+			if (child.parent != null)
+			{
+				Hull sourceHull = child.parent.FindSourceHull(child);
+				if (sourceHull != null)
+				{
+					EditorGUI.BeginDisabledGroup(true);
+					EditorGUILayout.TextField("Source Hull", sourceHull.name);
+					EditorGUI.EndDisabledGroup();
+				}
+				else
+				{
+					EditorGUILayout.LabelField("No source hull for this child");
+				}
+			}
+			else
+			{
+				EditorGUILayout.LabelField("Missing parent!");
+			}
+		}
+	}
+
+} // namespace Technie.PhysicsCreator

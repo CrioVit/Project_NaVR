@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c5f11e1390bb4af1be535c9849eb45f13e0a1599f79193a6777e899ae6646611
-size 697
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Autohand {
+    public static class HandExtensions {
+
+        
+
+
+        public static void HandIgnoreCollider(this Hand hand, Collider collider, bool ignore) {
+            for(int i = 0; i < hand.handColliders.Count; i++)
+                Physics.IgnoreCollision(hand.handColliders[i], collider, ignore);
+        }
+
+
+        public static void SetLayerRecursive(this Hand hand, Transform obj, int newLayer) {
+            obj.gameObject.layer = newLayer;
+            for(int i = 0; i < obj.childCount; i++) {
+                hand.SetLayerRecursive(obj.GetChild(i), newLayer);
+            }
+        }
+
+
+    }
+}

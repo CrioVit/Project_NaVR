@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:663113c086aaee46daa52853c44d3151fbc1ea27259d7a8d510665f73369e8b1
-size 364
+fileFormatVersion: 2
+guid: 81c36c1f006bd8848b64a84a623af92d
+timeCreated: 1526161016
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/fixPos2.ptx
+  uploadId: 641446

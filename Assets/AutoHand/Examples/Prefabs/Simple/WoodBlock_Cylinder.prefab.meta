@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1e94b652556cb41a76d3d579d29aa042e5bea91475a9deb3583d9912f9f2a148
-size 374
+fileFormatVersion: 2
+guid: 96d21be8d5f89b3448e351d6d983a1c8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Simple/WoodBlock_Cylinder.prefab
+  uploadId: 732376

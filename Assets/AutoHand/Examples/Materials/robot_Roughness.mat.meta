@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da09acf83ce3f69b61e3cc3be5cc8b718ce1371db3927f42cb1befaa4d6ddab1
-size 391
+fileFormatVersion: 2
+guid: 93ad1d8ba4d32924d8350ad986f4c73a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/robot_Roughness.mat
+  uploadId: 732376

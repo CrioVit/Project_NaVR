@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:93dc21e760b6de8e2e8974a0ed6b8929f1043e74f77423aaf2e6634ed832f07c
-size 394
+fileFormatVersion: 2
+guid: d4855c528c79fc34bb107d7497ce2e58
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Colors/lightPurple.mat
+  uploadId: 732376

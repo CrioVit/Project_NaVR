@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21dbc8432279aea4cd6ec05e72ee44c6c5cf1af3b1875fe5aa238ec321ab169a
-size 489
+fileFormatVersion: 2
+guid: 19d74ab2ddcb764449daaa64178cb62e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Editor/Scripts/PerfectCullingSceneColor.cs
+  uploadId: 694221

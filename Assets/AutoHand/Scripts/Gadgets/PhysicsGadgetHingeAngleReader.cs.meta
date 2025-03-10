@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:006525291c4f6c7a3979bbecb24421fe7590d09103af6e83b7b2d8390bb18faa
-size 462
+fileFormatVersion: 2
+guid: 3f2580c2349119b46b7b6be979d1ad61
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Gadgets/PhysicsGadgetHingeAngleReader.cs
+  uploadId: 732376

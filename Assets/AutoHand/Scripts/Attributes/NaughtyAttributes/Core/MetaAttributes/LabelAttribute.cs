@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca1dd712a1f8c66cd141adbf024d2722fc1a348133da3aa346480dca37f9ba2d
-size 293
+﻿using System;
+
+namespace NaughtyAttributes
+{
+	[AttributeUsage(AttributeTargets.Field, AllowMultiple = false, Inherited = true)]
+	public class LabelAttribute : MetaAttribute
+	{
+		public string Label { get; private set; }
+
+		public LabelAttribute(string label)
+		{
+			Label = label;
+		}
+	}
+}

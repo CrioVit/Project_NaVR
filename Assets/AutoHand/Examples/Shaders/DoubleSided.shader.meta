@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:36a2b3cd9394f64c0cf5a0eb3f819ca3053e6a634e2d7e08c5df0c846a684efa
-size 410
+fileFormatVersion: 2
+guid: 32cc052ecef8b244dbe3a860ae9f076d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Shaders/DoubleSided.shader
+  uploadId: 732376

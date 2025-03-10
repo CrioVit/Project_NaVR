@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dba1686a9d76067e26e223f5be04df50b75ea8b472161988425d4ecb162277e9
-size 399
+fileFormatVersion: 2
+guid: babff000d58dceb4689c66f6d73b081a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Resources/Materials/AutoHandEmbelm 1.mat
+  uploadId: 732376

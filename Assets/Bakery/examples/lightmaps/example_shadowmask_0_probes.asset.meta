@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:284808ca2d6e8ad5075617788590fa1f2617886187d3dd3aee727ef5e06545db
-size 422
+fileFormatVersion: 2
+guid: 8829ae5b1e4ce4b41b1b54c5c2c3bc6e
+timeCreated: 1605984905
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/lightmaps/example_shadowmask_0_probes.asset
+  uploadId: 641446

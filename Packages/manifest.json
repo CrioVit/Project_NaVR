@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.qualcomm.snapdragon.spaces": "file:C:/Users/pietr/Downloads/VRMR_Snapdragon_Spaces_SDK_1_0_1_for_Unity/Unity Package/com.qualcomm.snapdragon.spaces-1.0.1.tgz",
     "com.unity.ai.navigation": "2.0.5",
     "com.unity.cinemachine": "3.1.2",
     "com.unity.collab-proxy": "2.6.0",
@@ -13,6 +14,8 @@
     "com.unity.timeline": "1.8.7",
     "com.unity.ugui": "2.0.0",
     "com.unity.visualscripting": "1.9.4",
+    "com.unity.xr.hands": "1.5.0",
+    "com.unity.xr.interaction.toolkit": "3.0.7",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",

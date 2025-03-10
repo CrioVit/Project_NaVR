@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f66e4aac0ad45da601fd8a31fbc0db87edd1457f2eb867b23bb2764ccd4f1886
-size 1102
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+
+namespace Autohand.Demo {
+    public class XRControllerEvent : MonoBehaviour
+    {
+        public XRHandControllerLink link;
+        public CommonButton button;
+        public UnityEvent Pressed;
+        public UnityEvent Released;
+        bool pressed = false;
+
+        protected virtual void Start() {
+            if (link == null) {
+                link = GetComponentInParent<XRHandControllerLink>();
+                if (link == null)
+                    Debug.LogError("No XRHandControllerLink connected - input will not work", this);
+            }
+        }
+
+        protected virtual void Update()
+        {
+            if (link == null)
+                return;
+
+            if (link.ButtonPressed(button) && !pressed)
+            {
+                Pressed?.Invoke();
+                pressed = true;
+            }
+            else if (!link.ButtonPressed(button) && pressed)
+            {
+                Released?.Invoke();
+                pressed = false;
+            }
+        }
+    }
+}

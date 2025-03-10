@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4a401a79f49745cdab3761bff982f75f3a3d561e0dd7d8e64a5b9944174d83f
-size 375
+fileFormatVersion: 2
+guid: a9359b56a118df545b1afd05714b7867
+timeCreated: 1658147049
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/fixPos12_notrimark.ptx
+  uploadId: 641446

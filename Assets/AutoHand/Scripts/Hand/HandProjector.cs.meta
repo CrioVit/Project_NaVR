@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:72499c23cd8f07f26ddc273a11d875fec11f9177a49c8f1b7c514b056e8ecdea
-size 443
+fileFormatVersion: 2
+guid: 5a19d3478546e174ba4693f363a23073
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Hand/HandProjector.cs
+  uploadId: 732376

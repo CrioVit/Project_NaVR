@@ -9,6 +9,11 @@ TagManager:
   - WaitZone
   - Unit
   - TrainJunction
+  - Trailer
+  - EnterExitPoint
+  - Vehicle
+  - IgnoreDamage
+  - Wheel
   layers:
   - Default
   - TransparentFX
@@ -22,10 +27,10 @@ TagManager:
   - Navmesh Lane
   - Traffic Light
   - Traffic Light Stop Area
-  - 
-  - 
-  - 
-  - 
+  - Grabbing
+  - Grabbable
+  - Hand
+  - HandPlayer
   - 
   - 
   - 

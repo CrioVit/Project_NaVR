@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bf4474350734cb13da1fa3809dab608bfa1a468d4c07efcbb2dbf4d1a16b0f51
-size 388
+fileFormatVersion: 2
+guid: 479698c6385d9244885db6a634635b6d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Resources/NoFriction.physicMaterial
+  uploadId: 732376

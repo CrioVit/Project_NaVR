@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4097cbcd6088db8fc1977ed4dc174029c6b88e3e3acc9b88f4753cc44f9b8137
-size 470
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Autohand.Demo{
+    public class JoystickObjectMover : PhysicsGadgetJoystick{
+        public Transform move;
+        public float speed = 2;
+        
+        void Update(){
+            var axis = GetValue();
+            var moveAxis = new Vector3(axis.x*Time.deltaTime*speed, 0, axis.y*Time.deltaTime*speed);
+            move.transform.localPosition += moveAxis;
+        }
+    }
+}

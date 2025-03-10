@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08ceedd349d91fb0f2b1dc783e888fa183704b3fde4d77fe9faee48d69edc601
-size 507
+fileFormatVersion: 2
+guid: f048476427cba5045936400518e92609
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Scripts/SamplingProviders/ExcludeFloatingSamplingProvider.cs
+  uploadId: 694221

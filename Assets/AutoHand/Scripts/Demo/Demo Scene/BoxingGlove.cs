@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae5414e15708985644333bd1cda83667d31d93f8ab61fa8616317b0a01116a87
-size 540
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Autohand.Demo {
+    public class BoxingGlove : MonoBehaviour {
+        public Rigidbody body;
+        public float power = 2f;
+
+        float lastHitTime;
+        float delay = 1f;
+
+        public void OnCollisionEnter(Collision collision) {
+            if(lastHitTime + delay < Time.fixedTime) {
+                collision.rigidbody?.AddForce(body.linearVelocity * power);
+                lastHitTime = Time.fixedTime;
+            }
+        }
+    }
+}

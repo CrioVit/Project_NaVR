@@ -1,3 +1,37 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c90c1f7919d08f5ee3dcc45dc5488c86b1634950d5e7890a54927bfcda9bed54
-size 1063
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+
+namespace Autohand.Demo {
+
+    public class TeleportPoint : MonoBehaviour {
+        public Transform teleportPoint;
+        public bool alwaysShow = false;
+        public bool matchPoint = true;
+        public bool matchDirection = true;
+
+        public UnityEvent<TeleportPoint, Teleporter> StartHighlight;
+        public UnityEvent<TeleportPoint, Teleporter> StopHighlight;
+        public UnityEvent<TeleportPoint, Teleporter> OnTeleport;
+
+
+        public void Awake() {
+            if(teleportPoint == null)
+                teleportPoint = transform;
+        }
+
+
+        public virtual void StartHighlighting(Teleporter raycaster) {
+            StartHighlight.Invoke(this, raycaster);
+        }
+
+        public virtual void StopHighlighting(Teleporter raycaster) {
+            StopHighlight.Invoke(this, raycaster);
+        }
+
+        public virtual void Teleport(Teleporter raycaster) {
+            OnTeleport.Invoke(this, raycaster);
+        }
+    }
+}

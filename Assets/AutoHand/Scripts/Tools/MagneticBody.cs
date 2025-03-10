@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee1ccd44da10ec870701989e0bc668a3852c3e36f04994f2553573986c5b3398
-size 473
+using Autohand;
+using UnityEngine;
+
+[ HelpURL("https://app.gitbook.com/s/5zKO0EvOjzUDeT2aiFk3/auto-hand/extras/magnetic-forces")]
+public class MagneticBody : MonoBehaviour
+{
+    public Rigidbody body;
+    public int magneticIndex = 0;
+    public float strengthMultiplyer = 1f;
+    public UnityMagneticEvent magneticEnter;
+    public UnityMagneticEvent magneticExit;
+
+    private void Start() {
+        if(body == null)
+            body = GetComponent<Rigidbody>();
+    }
+}

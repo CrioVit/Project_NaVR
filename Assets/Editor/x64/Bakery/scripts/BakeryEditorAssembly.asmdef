@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bb8328b105bb2985df25abce68294161cc3b13d17b969b7c2f5846718e87765c
-size 363
+{
+    "name": "BakeryEditorAssembly",
+    "references": [
+        "BakeryRuntimeAssembly"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bc77bded9a251c060bf74e0d280bb570eb7860d46bfbb0b2e08caa35f7415c6c
-size 500
+fileFormatVersion: 2
+guid: e9c18b0e698717442b7631c5066d667f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Attributes/NaughtyAttributes/Editor/DecoratorDrawers/InfoBoxDecoratorDrawer.cs
+  uploadId: 732376

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:235708e4a2b90af1378fcec152fe775def2ad46628e48f445336b5e4e23e5dac
-size 391
+fileFormatVersion: 2
+guid: b7f2eeb31adcaf143a9455602daf4853
+timeCreated: 1526836856
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/ftCubemap2StripExport.shader
+  uploadId: 641446

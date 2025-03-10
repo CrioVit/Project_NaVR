@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:07d5e178a4cd1ac0be30b0dbbb9f1af7c8697c22e8651b894059997e436b15c1
-size 451
+fileFormatVersion: 2
+guid: 28a0796b3f07e8e4f9cd8dc5068efd18
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Examples/Example Scene Assets/Physics
+    Hulls/Technie Torus Hull Data.asset
+  uploadId: 635387

@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:67872d5e33cffc52e63d477c4fbfd80f3d04298b45724990ea320fff4839e300
-size 466
+fileFormatVersion: 2
+guid: b5540bab8fc1064489d053fefbd66e80
+timeCreated: 1487434223
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/Sphere.cs
+  uploadId: 635387

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:206d10f746f2fed738b3ce577343c67fbd2d8bed30ed224c39aaf6e50ae5f6dc
-size 419
+fileFormatVersion: 2
+guid: 313a2f06887cfd042a1afeae1388f7d2
+timeCreated: 1527012412
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/sponza_evening_skybox.asset
+  uploadId: 641446

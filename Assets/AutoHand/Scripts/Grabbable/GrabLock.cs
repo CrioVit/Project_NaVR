@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a529e276b3c749e7c34c4202bbdb72f1150de7bdbaaeb2b7ececab3c46d21d19
-size 516
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+
+namespace Autohand{
+    [RequireComponent(typeof(Grabbable))]
+    public class GrabLock : MonoBehaviour{
+        [Header("Hand.Released() must be called elsewhere")]
+        [Header("Use this script to prevent grabbable release")]
+        
+        //THIS SCRIPT ALLOWS YOU TO HOLD AN OBJECT AFTER TRIGGER RELEASE AND CALL THIS EVENT WITH TRIGGER PRESS
+        public UnityHandGrabEvent OnGrabPressed;
+
+    }
+}

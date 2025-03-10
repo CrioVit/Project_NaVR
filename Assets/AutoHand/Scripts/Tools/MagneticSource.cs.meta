@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ad9de82d5cb9d157d585b3b9ca518bb1247996925896a7c95c85bfe5f3874a2
-size 445
+fileFormatVersion: 2
+guid: 0e00af7538f45324194b5c1361e5c854
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Tools/MagneticSource.cs
+  uploadId: 732376

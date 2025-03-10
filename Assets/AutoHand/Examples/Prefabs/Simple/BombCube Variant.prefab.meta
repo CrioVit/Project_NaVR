@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a8f3a4e1463007cb8edd23b7043c21a7b4e6100c52ac043f3d7c8722fe887f19
-size 372
+fileFormatVersion: 2
+guid: a193f18bda06bf44da81f08530cf2c74
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Simple/BombCube Variant.prefab
+  uploadId: 732376

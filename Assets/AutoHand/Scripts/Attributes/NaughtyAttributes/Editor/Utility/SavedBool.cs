@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98c9aeb6eda057395886d8c3b05943e0f297d64b0e300c6c09897c8621c1db9d
-size 445
+using UnityEditor;
+
+namespace NaughtyAttributes.Editor
+{
+	internal class SavedBool
+	{
+		private bool _value;
+		private string _name;
+
+		public bool Value
+		{
+			get
+			{
+				return _value;
+			}
+			set
+			{
+				if (_value == value)
+				{
+					return;
+				}
+
+				_value = value;
+				EditorPrefs.SetBool(_name, value);
+			}
+		}
+
+		public SavedBool(string name, bool value)
+		{
+			_name = name;
+			_value = EditorPrefs.GetBool(name, value);
+		}
+	}
+}

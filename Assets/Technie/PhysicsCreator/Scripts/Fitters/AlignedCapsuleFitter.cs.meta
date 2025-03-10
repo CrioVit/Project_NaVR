@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9a4816d4f4f11350475450a9f55650b564a263a632a2db5c203db73158b1b9d7
-size 467
+fileFormatVersion: 2
+guid: f5436ac43bca8964cad694663000d7cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/Fitters/AlignedCapsuleFitter.cs
+  uploadId: 635387

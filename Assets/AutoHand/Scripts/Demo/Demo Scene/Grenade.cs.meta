@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:39eb758c22626c9d29fba0d056d8b1503f0f15640a77cbc04d32352d15ff43ef
-size 448
+fileFormatVersion: 2
+guid: 4249cc9f1f9401b48af7156044fcd45d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Demo Scene/Grenade.cs
+  uploadId: 732376

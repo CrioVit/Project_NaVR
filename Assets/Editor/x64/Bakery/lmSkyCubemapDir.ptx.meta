@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2db878d06c21ed8f3c875eca8452c428b1989ee2d3a6156071c73c14a5834e4
-size 372
+fileFormatVersion: 2
+guid: 6df75ae57d123854a92e03aab49710e3
+timeCreated: 1537386825
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/lmSkyCubemapDir.ptx
+  uploadId: 641446

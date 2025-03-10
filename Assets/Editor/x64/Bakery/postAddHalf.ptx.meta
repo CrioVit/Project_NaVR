@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62b4b78eb33b9216d62c0776d4afbf1ca3fd1fe5228160b2a33c78825519885d
-size 368
+fileFormatVersion: 2
+guid: 62652ab2c12ee5a49bb1fee695c7ccc7
+timeCreated: 1582371819
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/postAddHalf.ptx
+  uploadId: 641446

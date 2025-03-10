@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:52d95ab2adc735796aeabe97041ae5171b59ef36e71acc62da83e03f1f31b77b
-size 455
+fileFormatVersion: 2
+guid: d7e43f3b6c658e442868b907c090b2de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Demo Scene/BowlingManager.cs
+  uploadId: 732376

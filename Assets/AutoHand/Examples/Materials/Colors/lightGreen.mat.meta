@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98e98f3e78f5a2c1e058c933b9e6ac75651fa88893e71fa1eda0acb0cf746e09
-size 393
+fileFormatVersion: 2
+guid: c842f327de8b3884b8bc4f6c1dc03518
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Colors/lightGreen.mat
+  uploadId: 732376

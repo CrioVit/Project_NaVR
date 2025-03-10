@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ef3df84e8d195b1dc7707f2d5bcdbd1ebe6b0a71591df84f9f059b65e41a183
-size 303
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class BodyPhysicsFollower : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}

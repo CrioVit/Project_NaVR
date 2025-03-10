@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee5733b2916f10eecc7ea32b956d121466f062e1cd18e335648f7810b91a5284
-size 463
+fileFormatVersion: 2
+guid: 89feb6980e7ea1a48a3465f20f8d4434
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/Rigid/RigidTrianglePicker.cs
+  uploadId: 635387

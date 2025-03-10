@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a98163a96069074110a49b279e4254a6cdd5b2277513ac72d77f257b7f2a2230
-size 428
+{
+    "name": "Autohand.XR.Editor",
+    "rootNamespace": "",
+    "references": [
+        "AutoHandAssembly",
+        "Autohand.XR"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

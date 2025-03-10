@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c4d474ed5dabaa8b7ccbc672a02d2dc26ab8c04cb120a90e2f7689412c632ec
-size 396
+fileFormatVersion: 2
+guid: e447cf97f87e52d4c9d544b28c33eb94
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Updater/Technie.PhysicsCreator.Updater.asmdef
+  uploadId: 635387

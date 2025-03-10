@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:74298df663651730ca11df19468e1f600741bbaf192f4df90585b398a420a0ca
-size 369
+fileFormatVersion: 2
+guid: b4a2faefd7e88d14aa85e5c8e89964dd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Gadgets/DoubleSlider.prefab
+  uploadId: 732376

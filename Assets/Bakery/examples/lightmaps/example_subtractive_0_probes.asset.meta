@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f9665dee225bf2a942ec0da466f1f6783c7ee18330b4f31cbf06a4767024551d
-size 423
+fileFormatVersion: 2
+guid: ea4b84cde5ca40d42a62c530b0e04175
+timeCreated: 1583673180
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/lightmaps/example_subtractive_0_probes.asset
+  uploadId: 641446

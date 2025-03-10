@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:27efa6c4134cf25449b861965c31b3a1f836e418c9a24484f97c4dc55c814e98
-size 392
+fileFormatVersion: 2
+guid: a49312c7e4e3073419566e9b92895584
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Docs/Light and script culling.pdf
+  uploadId: 694221

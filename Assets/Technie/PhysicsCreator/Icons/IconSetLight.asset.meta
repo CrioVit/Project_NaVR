@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a7163823335e5fd7085a8d88acfa3bce94cf06bf3f0de53334bafe1e3afef746
-size 398
+fileFormatVersion: 2
+guid: 44643ae9caca9fd42b455bb6dd5cd5dc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Icons/IconSetLight.asset
+  uploadId: 635387

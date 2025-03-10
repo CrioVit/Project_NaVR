@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a3570e80ec396c740895ae921648a522bf206fd5b76ea67be06981445b4c724
-size 470
+fileFormatVersion: 2
+guid: 855e1c3bb96607b46842d2505034e037
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Scenes/XR/Scripts/XRAutoHandAxisFingerBender.cs
+  uploadId: 732376

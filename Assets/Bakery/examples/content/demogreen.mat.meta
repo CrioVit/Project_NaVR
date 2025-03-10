@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af918d6540c5764c1d6171dec02bdae57bfb8f0891f335ec423b3cf7a3da0066
-size 405
+fileFormatVersion: 2
+guid: 110045865dd881f40b43ec98bb550a29
+timeCreated: 1539286056
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/demogreen.mat
+  uploadId: 641446

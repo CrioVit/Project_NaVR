@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:406429c1c4a949c7720484e2c605e5ea965aed25e478fdfdc22f90a926d81e9e
-size 374
+fileFormatVersion: 2
+guid: e661f8eba59c2c74aae2e26dd07d3fc7
+timeCreated: 1583324482
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/lmBatchPointLight.ptx
+  uploadId: 641446

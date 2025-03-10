@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e501ed0b2c5f47a256541e4219dd674bba9fd638c85301e6c9b81a6fee66a2d
-size 369
+fileFormatVersion: 2
+guid: 5aaaa91ab09a47640a15dcc03d1d0fac
+timeCreated: 1534844129
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/combineMasks.exe
+  uploadId: 641446

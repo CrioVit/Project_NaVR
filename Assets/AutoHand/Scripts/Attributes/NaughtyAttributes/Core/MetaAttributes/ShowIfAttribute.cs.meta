@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b62b0ee3165356cd2fcbba91c3e55c46f18b19d6766a7429e57adc5be3f0ceda
-size 489
+fileFormatVersion: 2
+guid: 1ada427cfd2c9b04989d6d18dea27985
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Attributes/NaughtyAttributes/Core/MetaAttributes/ShowIfAttribute.cs
+  uploadId: 732376

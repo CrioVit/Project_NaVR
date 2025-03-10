@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fd4f0b42e304802bb0a3200e01e94275a0f55341e408d80a5fad0448bc11bf89
-size 270
+fileFormatVersion: 2
+guid: 6a33e6ce4c2567a4e8dea64cbe24ebe6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Hand/FingerTriggerAreaEvents.cs
+  uploadId: 732376

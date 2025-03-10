@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:26d1f594b8376e6fbb203398c6dce7f5374dee52dbe549535ee0c3450bb2bd13
-size 381
+fileFormatVersion: 2
+guid: 35a711cb34eace54bbba5fd1d8be9494
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Glass.mat
+  uploadId: 732376

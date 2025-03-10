@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ad91883a183ea7d335b9bb195467e4127b83e6fe71ed06271a962b6ccfbbebb9
-size 384
+fileFormatVersion: 2
+guid: 20ea139dff8ced947aedd767ed4d773a
+timeCreated: 1529086730
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/ftUnlitTerrain.shader
+  uploadId: 641446

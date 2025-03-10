@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:67904a721de1e2912f20690d21b2b1dbad29bf1053e5a2c3cdcf016175c99421
-size 408
+fileFormatVersion: 2
+guid: 11b8de68453aed84b86650851ed3cf1c
+timeCreated: 1525864204
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/stainedglass.mat
+  uploadId: 641446

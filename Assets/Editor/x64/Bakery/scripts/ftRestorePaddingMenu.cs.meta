@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95724e255c1660b7e62eb7b589df81d5538842da37dda162f5bf9567d5632090
-size 472
+fileFormatVersion: 2
+guid: 1acbda60094b1b14fa803d9ce4fb88d3
+timeCreated: 1557694522
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/scripts/ftRestorePaddingMenu.cs
+  uploadId: 641446

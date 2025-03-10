@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3bd4bf98a1ba921267677c1373682896e2dc03fd6369afa0c06ed78aeda4d48b
-size 446
+fileFormatVersion: 2
+guid: 1b03153243e9fd5488df0167bc379eb6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Demos/Data/Terrain_Demo_Layer.terrainlayer
+  uploadId: 694221

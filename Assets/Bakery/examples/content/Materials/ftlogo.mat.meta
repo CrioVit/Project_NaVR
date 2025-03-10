@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4e0afbb90f32eda67abf31e48869d3669335493b92bc268eed59655373751ae0
-size 385
+fileFormatVersion: 2
+guid: 9bb5184d823f9664ba43066d60baa6d4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/Materials/ftlogo.mat
+  uploadId: 641446

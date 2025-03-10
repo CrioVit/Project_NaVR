@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e9f44501a46292f3fdb19244b2abf903f2e05428718fcc64e708ec9301d598a
-size 448
+fileFormatVersion: 2
+guid: e4313c8dbf9d16545a3263ec0411b031
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/BETA/GrabbableHeldJoint.cs
+  uploadId: 732376

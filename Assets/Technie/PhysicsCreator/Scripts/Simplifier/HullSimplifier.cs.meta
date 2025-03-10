@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f55d9e50fe3df802d3b17332abb9577d25b7f59644fc02ea77d10bd30cc4f627
-size 464
+fileFormatVersion: 2
+guid: 26fdcfb6055f90f478c8bf0facb3bf33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/Simplifier/HullSimplifier.cs
+  uploadId: 635387

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e1fceb7c32c8c2d222594acb3d2845eadc8e81e2a9ca01f9a51f377ee4c16e5
-size 445
+fileFormatVersion: 2
+guid: 9a1deccc66b15ad45982fd415dd879a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Hand/HandFingerTouch.cs
+  uploadId: 732376

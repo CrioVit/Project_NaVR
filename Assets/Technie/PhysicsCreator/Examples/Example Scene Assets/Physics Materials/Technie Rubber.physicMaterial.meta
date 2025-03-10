@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b3f04123662107fef3499e0b969cb4572f0374ce9ef2cb6c947d4d45b60740de
-size 447
+fileFormatVersion: 2
+guid: 72ddbd19c4d4a4a4b9434c01cbe405b9
+timeCreated: 1487516209
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Examples/Example Scene Assets/Physics
+    Materials/Technie Rubber.physicMaterial
+  uploadId: 635387

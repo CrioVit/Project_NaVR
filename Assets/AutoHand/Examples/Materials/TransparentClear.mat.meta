@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a96174d81278cd214ed6dc843f3f9288ed4aad2a0d8828c61d8d616fd3db449a
-size 398
+fileFormatVersion: 2
+guid: 97d17efad82926446852335908eaedf2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/TransparentClear.mat
+  uploadId: 732376

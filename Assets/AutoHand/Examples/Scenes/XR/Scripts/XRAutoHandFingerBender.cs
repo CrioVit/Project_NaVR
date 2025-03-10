@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:47acf5410e606c0f002b768a78c7bc0f553a124aec660660cd3f9b421df854c7
-size 1240
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Autohand.Demo{
+    public class XRAutoHandFingerBender : MonoBehaviour{
+        public XRHandControllerLink controller;
+        public CommonButton button;
+        
+        [HideInInspector]
+        public float[] bendOffsets;
+
+        bool pressed;
+        
+        void Update(){
+            if(!pressed && controller.ButtonPressed(button)) {
+                pressed = true;
+                for(int i = 0; i < controller.hand.fingers.Length; i++) {
+                    controller.hand.fingers[i].bendOffset += bendOffsets[i];
+                }
+            }
+            else if(pressed && !controller.ButtonPressed(button)) {
+                pressed = false;
+                for(int i = 0; i < controller.hand.fingers.Length; i++) {
+                    controller.hand.fingers[i].bendOffset -= bendOffsets[i];
+                }
+            }
+        }
+
+
+        private void OnDrawGizmosSelected() {
+            if(controller == null && GetComponent<XRHandControllerLink>()){
+                controller = GetComponent<XRHandControllerLink>();
+                bendOffsets = new float[controller.hand.fingers.Length];
+            }
+        }
+    }
+}

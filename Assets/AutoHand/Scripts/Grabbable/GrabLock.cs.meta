@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:407ee7a2869027b5341e9f6458ce79dcb83e3b8139f37db5f2e48c8fedc6d8f4
-size 443
+fileFormatVersion: 2
+guid: 72ddecfd57951984cb3fe8b722d3f68b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Grabbable/GrabLock.cs
+  uploadId: 732376

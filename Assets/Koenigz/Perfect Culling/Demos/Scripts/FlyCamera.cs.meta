@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bae1f14e8c37f9b4188c6924288e27cc016614143e92ce2b467de44f550de1a4
-size 473
+fileFormatVersion: 2
+guid: 0f6beeb50e9b0e0408650015b0f5b25d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Demos/Scripts/FlyCamera.cs
+  uploadId: 694221

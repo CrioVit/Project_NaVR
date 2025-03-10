@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57400a46360349e18e4546a7a2bdf033a6c546d29d94ead51c2f8052bdeec8d8
-size 964
+﻿// Perfect Culling (C) 2021 Patrick König
+//
+
+using UnityEngine;
+
+namespace Koenigz.PerfectCulling.SamplingProviders
+{
+    [RequireComponent(typeof(PerfectCullingBakingBehaviour))]
+    [DisallowMultipleComponent]
+    [ExecuteAlways]
+    public class ExcludeFloatingSamplingProvider : SamplingProviderBase
+    {
+        [SerializeField] private LayerMask layerMask = ~0;
+        [SerializeField] private float distance = 5f;
+
+        public override string Name => nameof(ExcludeFloatingSamplingProvider) + $": Mask: {layerMask.value.ToString()}, Distance: {distance}"; 
+      
+        public override void InitializeSamplingProvider()
+        {
+        }
+
+        public override bool IsSamplingPositionActive(PerfectCullingBakingBehaviour bakingBehaviour, Vector3 pos)
+        {
+            if (!Physics.Raycast(pos, -Vector3.up, distance, layerMask.value))
+            {
+                return false;
+            }
+
+            return true;
+        }
+    }
+}

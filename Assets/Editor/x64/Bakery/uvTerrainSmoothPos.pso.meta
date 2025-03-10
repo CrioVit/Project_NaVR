@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3db3e01acee73d7433839ad3a0dad84ecd01b289fa3f3419477340d6e17a31bd
-size 375
+fileFormatVersion: 2
+guid: 50dad8e5c6c394b48b0fd448d27993cf
+timeCreated: 1547668316
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/uvTerrainSmoothPos.pso
+  uploadId: 641446

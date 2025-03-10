@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e32dca65c2f54624750fe8e91654744a2ef5a5fe32122fb1c719326482cb02d
-size 1499
+﻿// Perfect Culling (C) 2021 Patrick König
+//
+
+#if UNITY_EDITOR
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEditor;
+
+namespace Koenigz.PerfectCulling
+{
+    [CustomEditor((typeof(PerfectCullingSceneGroup)))]
+    public class PerfectCullingSceneCullingGroupEditor : Editor
+    {
+        public override void OnInspectorGUI()
+        {
+            DrawDefaultInspector();
+
+            PerfectCullingSceneGroup monoCullingGroup = target as PerfectCullingSceneGroup;
+            
+            if (GUILayout.Button("Collect children"))
+            {
+                UnityEditor.Undo.RecordObject(monoCullingGroup, "Collected children in SceneCullingGroup");
+
+                monoCullingGroup.SetRenderers(monoCullingGroup.GetComponentsInChildren<Renderer>());
+                
+                EditorUtility.SetDirty(monoCullingGroup);
+            }
+            
+            if (GUILayout.Button("Clear"))
+            {
+                if (PerfectCullingEditorUtil.DisplayDialog("Clear all renderers in this group?",
+                    "This will clear all renderers in this group.", "OK", "Cancel"))
+                {
+                    UnityEditor.Undo.RecordObject(monoCullingGroup, "Cleared all renderers in SceneCullingGroup");
+                    
+                    monoCullingGroup.SetRenderers(System.Array.Empty<Renderer>());
+
+                    EditorUtility.SetDirty(monoCullingGroup);
+                }
+            }
+        }
+    }
+}
+#endif

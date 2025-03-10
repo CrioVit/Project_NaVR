@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:585848b22050e724ec977840e55330254b2c19d53b459cba6db0257d5b999da0
-size 446
+fileFormatVersion: 2
+guid: ade8508f9cb7c1d439cf94e9cada134b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Internal/KeyboardHand.cs
+  uploadId: 732376

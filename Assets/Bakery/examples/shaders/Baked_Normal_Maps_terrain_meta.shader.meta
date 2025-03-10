@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0333d01adad2f84f88f6d85c3ba69390244b991f322ea9fce657791ccd249c3f
-size 417
+fileFormatVersion: 2
+guid: c071342c6ed3a214cac24c80263f3079
+timeCreated: 1539530856
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/shaders/Baked_Normal_Maps_terrain_meta.shader
+  uploadId: 641446

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c2a95bac0d93361e31442ab1a2deab373a8b0db6e95ad3769e16899ef782b78
-size 463
+fileFormatVersion: 2
+guid: 347efddb19627c941bbe201c025bc04e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Scenes/XR/Scripts/XRHandPointGrabLink.cs
+  uploadId: 732376

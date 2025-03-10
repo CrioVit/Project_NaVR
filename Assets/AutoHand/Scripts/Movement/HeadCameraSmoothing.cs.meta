@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ea3687470b2235a03e54c90ff516e07c882252029aa7f4ee2a19a31392dbc9e
-size 453
+fileFormatVersion: 2
+guid: 43f45130b60269b47b8e86db114a6478
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Movement/HeadCameraSmoothing.cs
+  uploadId: 732376

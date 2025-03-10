@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:abbf5bd1b030366efaae90ac014c7c0909c2d3ecb1cec049529e32e297ff1783
-size 370
+fileFormatVersion: 2
+guid: 6fac4f019fbc6a1479adf2d12c596c5d
+timeCreated: 1558780075
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/lmConeLightSH.ptx
+  uploadId: 641446

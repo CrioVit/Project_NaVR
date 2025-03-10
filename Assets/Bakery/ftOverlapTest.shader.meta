@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9091bd4a94ffe905098a63ab9a400d4f0b445b8855b4a84cc3920ba768392cca
-size 383
+fileFormatVersion: 2
+guid: 20cf64477973022498e44b932e804288
+timeCreated: 1528974529
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/ftOverlapTest.shader
+  uploadId: 641446

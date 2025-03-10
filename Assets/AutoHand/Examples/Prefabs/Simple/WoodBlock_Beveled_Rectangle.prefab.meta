@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e5f3add96b060a336042cf7d64a297edf3cd6083048e3fa34785a7ef30bd81f
-size 383
+fileFormatVersion: 2
+guid: 7b043406d7de482418dfa12f5e1ec5ea
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Simple/WoodBlock_Beveled_Rectangle.prefab
+  uploadId: 732376

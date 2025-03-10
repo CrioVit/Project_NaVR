@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:26809e827c2b95fc4a30d5f3f6178cef9c97398cec16689ffa920fc5def94da7
-size 487
+using UnityEngine;
+using System.Collections.Generic;
+
+public class BakerySectorCapture : ScriptableObject
+{
+#if UNITY_EDITOR
+    [SerializeField]
+    public Vector3 sectorPos;
+
+    [SerializeField]
+    public Quaternion sectorRot;
+
+    [SerializeField]
+    public List<Mesh> meshes;
+
+    [SerializeField]
+    public List<Vector3> positions;
+
+    [SerializeField]
+    public List<Texture2D> textures;
+
+    public List<Renderer> outsideRenderers;
+    public bool write = false;
+
+#endif
+}
+

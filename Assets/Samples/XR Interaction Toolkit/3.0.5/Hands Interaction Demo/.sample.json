@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54367c7eba40a0811bc69e647d253a5198e07faaea1fecfdc1b3b07fa030ade4
-size 375
+{
+  "displayName": "Hands Interaction Demo",
+  "description": "Demo scene and other assets for hand-tracking integration with the XR Interaction Toolkit.\n<i>Dependencies:</i>\n • <a href=\"com.unity3d.kharma:upmpackage/com.unity.xr.hands\">XR Hands</a>\n • <a href=\"com.unity3d.kharma:upmpackage/com.unity.shadergraph\">Shader Graph</a>\n • Starter Assets sample"
+} 

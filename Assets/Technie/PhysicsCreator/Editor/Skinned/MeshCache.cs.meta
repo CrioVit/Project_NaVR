@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:379fda91ff5b167d9c0d9da702a70dc89ee9a47a925cf5e60c475acab69940d2
-size 455
+fileFormatVersion: 2
+guid: 99639b1ae7c3dcb439934babd14cc344
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/Skinned/MeshCache.cs
+  uploadId: 635387

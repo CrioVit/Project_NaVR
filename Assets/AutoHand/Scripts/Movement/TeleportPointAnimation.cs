@@ -1,3 +1,35 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bf9e3f3272f309af885060f80b47687d882bb38e66d76fb302a00a14f247af1a
-size 1132
+using Autohand;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Autohand.Demo {
+    [RequireComponent(typeof(TeleportPoint))]
+    public class TeleportPointAnimation : InteractionAnimations {
+        TeleportPoint teleportPoint;
+
+        protected override void OnEnable() {
+            base.OnEnable();
+            teleportPoint = GetComponent<TeleportPoint>();
+            teleportPoint.StartHighlight.AddListener(StartHighlight);
+            teleportPoint.StopHighlight.AddListener(StopHighlight);
+        }
+
+        protected override void OnDisable() {
+            base.OnDisable();
+            teleportPoint.StartHighlight.RemoveListener(StartHighlight);
+            teleportPoint.StopHighlight.RemoveListener(StopHighlight);
+        }
+
+        void StartHighlight(TeleportPoint teleportPoint, Teleporter teleporter) {
+            highlightStartTime = Time.time;
+            highlighting = true;
+        }
+
+        void StopHighlight(TeleportPoint teleportPoint, Teleporter teleporter) {
+            highlightStopTime = Time.time;
+            highlighting = false;
+        }
+
+    }
+}

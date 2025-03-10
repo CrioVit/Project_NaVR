@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:24126beee8b2f0116d35ebef98e6203b8584a7a36e7c48fbef1c820f4dde238e
-size 458
+fileFormatVersion: 2
+guid: 7157b54efd3e0f34582ed1f504e504f6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Editor/Assets/Perfect Culling/PerfectCulling
+    ColorTable.asset
+  uploadId: 694221

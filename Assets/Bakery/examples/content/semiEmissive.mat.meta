@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dbf9ea5723726af1e666ce686f00a256884c5a2707234e30878b5495b63db9f5
-size 408
+fileFormatVersion: 2
+guid: 498d4f949ad43ab45a4c45fa31dd536c
+timeCreated: 1528489678
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/semiEmissive.mat
+  uploadId: 641446

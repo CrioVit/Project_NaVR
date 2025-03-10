@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ad1e07bbf8ddb539f5d25f95871a4354b253aa59eabff9d398bc3a18b47a9c4c
-size 449
+fileFormatVersion: 2
+guid: 0d0cb31f61727554fbdb16f3d7cb8aa8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Animations/LineAnimation.cs
+  uploadId: 732376

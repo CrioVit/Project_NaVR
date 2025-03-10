@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0eb291e783452e006b1144d66c4f49e0664a6725b793f0dd9db10e3341d853f7
-size 470
+fileFormatVersion: 2
+guid: 6977f7d9b2482ea4cbd5535e0046efab
+timeCreated: 1558111532
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/scripts/ftSaveSettingsMenu.cs
+  uploadId: 641446

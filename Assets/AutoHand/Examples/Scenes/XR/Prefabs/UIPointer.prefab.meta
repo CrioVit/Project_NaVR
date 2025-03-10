@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f40ba89b763aedec5d5ceae1fc9df3d96ef4e04437e7521584896769b25c4676
-size 368
+fileFormatVersion: 2
+guid: 432014264484f7b44afb25b027e8edb1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Scenes/XR/Prefabs/UIPointer.prefab
+  uploadId: 732376

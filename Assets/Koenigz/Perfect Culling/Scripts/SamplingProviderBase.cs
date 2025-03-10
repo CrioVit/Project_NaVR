@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f21cc30df667036c53c1ab525fbd0e84c21fcbede4d847fdb7b231651359a80f
-size 900
+﻿// Perfect Culling (C) 2021 Patrick König
+//
+
+using UnityEngine;
+
+namespace Koenigz.PerfectCulling
+{
+    public abstract class SamplingProviderBase : MonoBehaviour, IActiveSamplingProvider
+    { 
+        private PerfectCullingBakingBehaviour m_behaviour;
+
+        protected virtual void OnEnable()
+        {
+            if (m_behaviour == null)
+            {
+                m_behaviour = GetComponent<PerfectCullingBakingBehaviour>();
+            }
+        }
+
+        protected virtual void OnDisable()
+        { 
+            if (m_behaviour == null)
+            {
+                m_behaviour = GetComponent<PerfectCullingBakingBehaviour>();
+            }
+        }
+
+        public abstract string Name { get; }
+
+        public abstract void InitializeSamplingProvider();
+
+        public abstract bool IsSamplingPositionActive(PerfectCullingBakingBehaviour bakingBehaviour, Vector3 pos);
+    }
+}

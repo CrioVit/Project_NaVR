@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:72297b6e21388cc8aa94ee7cac5adadc3cddc98449ab189dac7e8da94f2c345d
-size 396
+fileFormatVersion: 2
+guid: a37a9a0e8a452d643ade922798bfac79
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Colors/lightererTeal.mat
+  uploadId: 732376

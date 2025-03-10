@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c69e6f913fb5fcfe670093aeba737055be1a4da89dcf87bca861f199e9a71e53
-size 455
+fileFormatVersion: 2
+guid: 9fc90466d671a0c45a2dcb7c3f78eae4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/HullPainterWindow.cs
+  uploadId: 635387

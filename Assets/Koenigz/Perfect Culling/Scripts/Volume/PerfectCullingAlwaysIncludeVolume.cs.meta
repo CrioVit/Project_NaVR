@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b18114212ad3359e7ce576d6f25710660b0c424a78549060cf2d23170fc03f1e
-size 498
+fileFormatVersion: 2
+guid: 5bc856d364273e44887a8df54fcd21a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Scripts/Volume/PerfectCullingAlwaysIncludeVolume.cs
+  uploadId: 694221

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b50cd926f28a89423f8a83cf70e9dee2a269fb5433e84ff72cae87ca54803e2
-size 478
+fileFormatVersion: 2
+guid: 18613afe66b0c0344a2be5f430bf965a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Attributes/NaughtyAttributes/Editor/Utility/SavedBool.cs
+  uploadId: 732376

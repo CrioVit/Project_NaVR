@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c59543e046d0671d4833e37c7934b48d781eddec524348b89196f426732bde25
-size 378
+fileFormatVersion: 2
+guid: 9bf1a6130f5bd7d4d8323100b5bf88f6
+timeCreated: 1605466171
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/hwtestdata/vbtraceUV0.bin
+  uploadId: 641446

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6aeef871fe0090b1dcd4fe03aede2e5ce99d47caa782e499b4e23ed59002d2c3
-size 451
+fileFormatVersion: 2
+guid: 1631c0094a880e84b956d37a9ac28da2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Examples/Example Scene Assets/Physics
+    Hulls/Technie Cross Hull Data.asset
+  uploadId: 635387

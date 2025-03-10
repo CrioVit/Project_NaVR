@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c56526f2b4647325ab7f2e7df7898020f3638326b15aa5df5e0b382136d6dd3
-size 509
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Technie.PhysicsCreator
+{
+	public interface ITrianglePicker
+	{
+		void Destroy();
+
+		void Disable();
+
+		bool HasValidTarget();
+
+		Mesh GetInputMesh();
+
+		void FindOrCreatePickClone();
+
+		void SyncPickClone(Renderer selectedRenderer);
+
+		bool Raycast(Ray pickRay, UnpackedMesh unpackedMesh, out int hitTriIndex);
+
+		Vector3[] GetTargetVertices();
+
+		int[] GetTargetTriangles();
+	}
+
+} // namespace Technie.PhysicsCreator

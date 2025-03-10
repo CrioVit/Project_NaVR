@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c48b1191bb0ab6e4de9aea14d63363089d615b9e6b789ca668fd8760ff82520
-size 456
+fileFormatVersion: 2
+guid: 78f249f3e740b3a4481e14bedaeabff9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/NullTrianglePicker.cs
+  uploadId: 635387

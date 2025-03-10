@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aa371539c18a6beabdeb6123d5113edab98145a9b2afacd55c69abac9b1d681b
-size 488
+fileFormatVersion: 2
+guid: fc11ad2f2e4230c499a52d0fa6855a91
+timeCreated: 1469376640
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/QHull/InternalErrorException.cs
+  uploadId: 635387

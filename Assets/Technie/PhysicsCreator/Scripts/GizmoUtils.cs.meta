@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a404749db1056ec2d8de9dd3abc8cead5a9fd73f9ed66252718d5e20201b47f9
-size 449
+fileFormatVersion: 2
+guid: 0f1abcdbe1c801b4f9bbaf085f9dcb07
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/GizmoUtils.cs
+  uploadId: 635387

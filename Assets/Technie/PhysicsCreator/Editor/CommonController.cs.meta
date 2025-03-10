@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:09b9a3fcf2ae5d65b8637f14be66b7eea218a42f197678d7d1070030927d804e
-size 454
+fileFormatVersion: 2
+guid: 7684cc3e7d0f13e499fcadb19519f003
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/CommonController.cs
+  uploadId: 635387

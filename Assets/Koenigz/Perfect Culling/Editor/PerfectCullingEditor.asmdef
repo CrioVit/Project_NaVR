@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:745aebf86665a1cd5908a770f9cea93e8adc2859e71efbaeefd92d606b9bf995
-size 855
+{
+    "name": "PerfectCullingEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:218b863c69c76454bbcf67d85ab468df",
+        "GUID:457756d89b35d2941b3e7b37b4ece6f1",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "9.0.0",
+            "define": "PC_URP_9_OR_NEWER"
+        },
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "10.0.0",
+            "define": "PC_HDRP_10_OR_NEWER"
+        }
+    ],
+    "noEngineReferences": false
+}

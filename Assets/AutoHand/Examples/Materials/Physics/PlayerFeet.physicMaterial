@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:42505cf76433c7e4b217201b6be8d16894455f00a5c778567fe3b2fa0d1b0a0a
-size 327
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!134 &13400000
+PhysicMaterial:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerFeet
+  dynamicFriction: 0.1
+  staticFriction: 0.5
+  bounciness: 0
+  frictionCombine: 0
+  bounceCombine: 1

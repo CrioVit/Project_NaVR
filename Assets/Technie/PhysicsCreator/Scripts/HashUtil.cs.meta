@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ecaa48fa9d2a42847fc480a8b162401423f4324515c7eaf1e9ef8f1230d78ff
-size 447
+fileFormatVersion: 2
+guid: f8aa655b45dab7a4cb2bff816d13d101
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/HashUtil.cs
+  uploadId: 635387

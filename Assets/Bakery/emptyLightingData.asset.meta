@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d47821534bde2ca5d1d6aee4c5605571dce673ba54f76b2c6ca87995bc8613db
-size 393
+fileFormatVersion: 2
+guid: 8b4edc58204bf354c9dd12ceacc42350
+timeCreated: 1534495245
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/emptyLightingData.asset
+  uploadId: 641446

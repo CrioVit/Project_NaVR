@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e41476321c83ef7cd71f9587186b2b5bc7df7af5c7499353ead0bce77ca66b0
-size 458
+fileFormatVersion: 2
+guid: 573626c2803a9f04aa9674af69754045
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Demo Scene/PlayerFallCatcher.cs
+  uploadId: 732376

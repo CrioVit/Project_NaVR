@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c7eb8bd46da5a853d554d09cabf3654184cfe003c4924ed6d1dcd51acc812d98
-size 416
+fileFormatVersion: 2
+guid: 46a81ed88681af14fb8958812187ca9b
+timeCreated: 1530782395
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/logolightPrefab.prefab
+  uploadId: 641446

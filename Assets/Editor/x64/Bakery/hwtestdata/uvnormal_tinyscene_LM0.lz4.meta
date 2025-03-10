@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13e31d21281c963bc76bdb311d5693f8175749838efa507cef4e8ed83bd41d41
-size 390
+fileFormatVersion: 2
+guid: 94b7eefd3a67057419a4fcda14c6c725
+timeCreated: 1605466142
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/hwtestdata/uvnormal_tinyscene_LM0.lz4
+  uploadId: 641446

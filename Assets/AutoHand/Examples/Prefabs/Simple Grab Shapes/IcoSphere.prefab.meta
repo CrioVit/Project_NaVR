@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d161399959bbcec4bbbdf6d0c75288e36eac0fc442f7833128bf7d87f852a13e
-size 377
+fileFormatVersion: 2
+guid: ec1f74e4ea590df42a00b2a32ebbfd01
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Simple Grab Shapes/IcoSphere.prefab
+  uploadId: 732376

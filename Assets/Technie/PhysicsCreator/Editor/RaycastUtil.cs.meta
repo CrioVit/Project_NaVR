@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62a02cbd7559207a9f7da5e1537241c7b982beffb175ba8ba3b2f2826ffe2cb0
-size 470
+fileFormatVersion: 2
+guid: 4fcc96bf7ae9f4b8e8c2bf292d367668
+timeCreated: 1469205234
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/RaycastUtil.cs
+  uploadId: 635387

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1bfb95dfafca852898ef68ddf9f7b5dbc4ddd8083fb1f4b5b55a284d3f164f35
-size 412
+fileFormatVersion: 2
+guid: 8a70376bc1b9e0441b35fe9defeedd89
+timeCreated: 1528373791
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/ColoredAreaLight.mat
+  uploadId: 641446

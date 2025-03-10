@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe8b7ffdf159744470cceb365fe163a9b4fc5145f24e072910f59036557ad791
-size 422
+fileFormatVersion: 2
+guid: c0d13824fe14c9c459b745b1ab148374
+timeCreated: 1539286056
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/demonormal white vertex SH.mat
+  uploadId: 641446

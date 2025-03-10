@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac76b54b3fc80c58b96156654d5607cb379452799321ceb22669fa3ea3be392f
-size 366
+fileFormatVersion: 2
+guid: 140d569d2348c164ea102e2533a4a218
+timeCreated: 1530260521
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/lodselect.ptx
+  uploadId: 641446

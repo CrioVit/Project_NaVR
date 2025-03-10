@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0947b0776bf08f72335655a8a7f2d3b52f96439d827d1120a91fe271870cbfe9
-size 386
+fileFormatVersion: 2
+guid: a98834c08bc85714385968e866289089
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Grid Metal.mat
+  uploadId: 732376

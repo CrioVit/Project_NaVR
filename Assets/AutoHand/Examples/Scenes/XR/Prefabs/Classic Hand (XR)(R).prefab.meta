@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:958c13e37574da32c64051a47e4efbe89888bf734c6b9d19140d56f3a65bfea4
-size 379
+fileFormatVersion: 2
+guid: 56ead9dc16628174989544076e2522d7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Scenes/XR/Prefabs/Classic Hand (XR)(R).prefab
+  uploadId: 732376

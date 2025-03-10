@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55ee4013ee45a595b34cb158394adeb5122833afa359c0b148878e74d3f1b2a8
-size 332
+﻿fileFormatVersion: 2
+guid: fee5825273474e77aa17c4bba24cd302
+timeCreated: 1643992936
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Scripts/Volume/EEmptyCellCullBehaviour.cs
+  uploadId: 694221

@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:deed110f4510545a0d6022c7f385173991669947072b6917e77ae31a76c5f33f
-size 472
+fileFormatVersion: 2
+guid: bccab2ee3333a0948a6facfbfb38e6c2
+timeCreated: 1506284045
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/PhysicsSeeder.cs
+  uploadId: 635387

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:757c5c7a015ebf838d54e97eff99e2abe60225ae3265589711c72677f5d1e4b9
-size 376
+fileFormatVersion: 2
+guid: 22d0ebd2cc22c314aa3ba05c011e50e0
+timeCreated: 1551521395
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/lmPointLightProbeSH.ptx
+  uploadId: 641446

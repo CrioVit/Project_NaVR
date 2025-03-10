@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81c78aa98313242c9fbe5cc0f11a68dab952f3760b9166635fdbfbf7902b73f9
-size 443
+fileFormatVersion: 2
+guid: 98c232a2f70ebaf46952b97e503b6e07
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/BETA/AutoGunTarget.cs
+  uploadId: 732376

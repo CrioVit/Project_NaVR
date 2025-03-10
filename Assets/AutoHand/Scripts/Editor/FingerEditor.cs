@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43d3d2bd97e436a76f23b50476a968a2b425711aebba82e0b1f1c26cf0c8b979
-size 653
+using Autohand;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEditor;
+using UnityEngine;
+
+namespace Autohand {
+    [CustomEditor(typeof(Finger))]
+    public class FingerEditor : Editor {
+        Finger finger;
+        float lastOffset;
+
+        private void OnEnable() {
+            finger = target as Finger;
+            lastOffset = finger.bendOffset;
+        }
+
+        public override void OnInspectorGUI() {
+            DrawDefaultInspector();
+            if(lastOffset != finger.bendOffset){
+                lastOffset = finger.bendOffset;
+                finger.SetFingerBend(lastOffset);
+            }
+        }
+    }
+}

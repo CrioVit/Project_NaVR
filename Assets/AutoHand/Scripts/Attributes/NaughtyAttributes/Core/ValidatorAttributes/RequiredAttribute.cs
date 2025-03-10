@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:790e955d738483c56132b1c1f037f887b4f544473628e431c6861572c8e304b2
-size 319
+﻿using System;
+
+namespace NaughtyAttributes
+{
+	[AttributeUsage(AttributeTargets.Field, AllowMultiple = false, Inherited = true)]
+	public class RequiredAttribute : ValidatorAttribute
+	{
+		public string Message { get; private set; }
+
+		public RequiredAttribute(string message = null)
+		{
+			Message = message;
+		}
+	}
+}

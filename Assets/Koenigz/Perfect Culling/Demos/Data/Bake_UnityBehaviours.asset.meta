@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:642600933a48b6081d264c4893f995a6386398c755a3f50caa0f855b5fdb758d
-size 430
+fileFormatVersion: 2
+guid: e7830c5e79f9d8a4095e86b1ecce1e02
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Demos/Data/Bake_UnityBehaviours.asset
+  uploadId: 694221

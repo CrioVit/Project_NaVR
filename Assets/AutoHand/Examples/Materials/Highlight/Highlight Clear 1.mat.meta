@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:96508bccb1b62a434873925d20ec755bc79a6f2a2507612b19eadf9415223624
-size 409
+fileFormatVersion: 2
+guid: 7ce43f44530685c478857faf811763b8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Highlight/Highlight Clear 1.mat
+  uploadId: 732376

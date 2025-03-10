@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e7f9eb2d249e2c4ff8e19635e84255d43fa1c42a6151455ab7d77b9241194ae
-size 388
+fileFormatVersion: 2
+guid: 5f32952d4931adc4dab6c7297d108118
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Mesh/BrightGreen.mat
+  uploadId: 732376

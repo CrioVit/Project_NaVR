@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8916da764a36c0aa22259cbb5a32f12422ebf06a28d26e2b2afd9601f3cc1a3b
-size 382
+fileFormatVersion: 2
+guid: 1f45fcc349188584095300fd024e8f8b
+timeCreated: 1538411299
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/shader/Bakery.cginc
+  uploadId: 641446

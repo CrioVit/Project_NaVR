@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f55ec10a6b0513f718b1fa805e793023c4073718d6b0e2d792b2792b168e0cc
-size 424
+fileFormatVersion: 2
+guid: c131d839dc7bb0049a7ab1c9cef73ac7
+timeCreated: 1704658325
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/lightmaps/LMGroup_Sphere_VertexSH0.asset
+  uploadId: 641446

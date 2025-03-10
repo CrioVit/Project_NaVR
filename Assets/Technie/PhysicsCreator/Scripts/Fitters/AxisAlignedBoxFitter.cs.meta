@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:830fa01e861d014d3c9ebc2091bbf2778daf2fb5faa0a55d247faae01689efc2
-size 488
+fileFormatVersion: 2
+guid: 61c979b85955b544db3f14e79349a262
+timeCreated: 1607440101
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/Fitters/AxisAlignedBoxFitter.cs
+  uploadId: 635387

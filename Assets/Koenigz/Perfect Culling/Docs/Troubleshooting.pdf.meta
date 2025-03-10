@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1786d626a5cfc1c77057f317b956fc35c3f0352d545d62663b46283c66866818
-size 383
+fileFormatVersion: 2
+guid: 365384845796c324bb62ece7bbf147e3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Docs/Troubleshooting.pdf
+  uploadId: 694221

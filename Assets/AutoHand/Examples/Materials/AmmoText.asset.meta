@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:956509881209c7dde6298678681a61a1c983a2624d7c89a8b089489b575eacc0
-size 385
+fileFormatVersion: 2
+guid: 1b42f4d6368715044aca74750ce635ad
+timeCreated: 1484171803
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/AmmoText.asset
+  uploadId: 732376

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0628f940c93bcb87117058ee6106f457848fecf9c3bef63c2e4a02459905c2e6
-size 458
+fileFormatVersion: 2
+guid: 8b3f69fa09888e34a8f0c5bb6f2fd3dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Demo Scene/ReloadSceneByName.cs
+  uploadId: 732376

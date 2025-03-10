@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:316b6d57dac426274bb50f36f26419c4a0433b0c02be20a06a2372f0fc5489e5
-size 388
+fileFormatVersion: 2
+guid: 60158c1f5a888be49b0e486812385af4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Black Rubber.mat
+  uploadId: 732376

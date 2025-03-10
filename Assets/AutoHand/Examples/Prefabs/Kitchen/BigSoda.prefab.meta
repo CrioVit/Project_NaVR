@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eaf38ee66a37e362e019937cd8378389a9f78ab89102b51c0123e1fd4d47eaa0
-size 364
+fileFormatVersion: 2
+guid: 9f4a5482e33cb2f45b94469302bfe9ed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Kitchen/BigSoda.prefab
+  uploadId: 732376

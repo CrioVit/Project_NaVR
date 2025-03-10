@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eda8eeb71bdfd51615d9ae7ad904716dc076a087adfd0b2b680cc9d0c86a82ce
-size 672
+fileFormatVersion: 2
+guid: 2d5517b3dc39e474cb2eddd0f4004ace
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 26
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Righteous
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Resources/Righteous-Big.ttf
+  uploadId: 732376

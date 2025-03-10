@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a08d05758959662a8baf1829cdd0e2bd83461be353640da4144344d6bf31f15d
-size 462
+fileFormatVersion: 2
+guid: eda3227897c8e00418bbdf35e802921e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/MeshCutter/CuttableMesh.cs
+  uploadId: 635387

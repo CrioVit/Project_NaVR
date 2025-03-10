@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f8bb3f74d787edd50784d3656c0c2b6a824d4fbeadc4f5fed8aabcfd5fa99c4
-size 263
+fileFormatVersion: 2
+guid: 043ee891e8f433f45ac35a02aed8935d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Editor/EditorHandTool.cs
+  uploadId: 732376

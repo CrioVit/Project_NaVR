@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7d72a2802fd1a993e1033578da33f5175135030f67537abbcd50332019d0dbb8
-size 380
+fileFormatVersion: 2
+guid: 786c7caa508d1f344a2b05806f53730c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Grey.mat
+  uploadId: 732376

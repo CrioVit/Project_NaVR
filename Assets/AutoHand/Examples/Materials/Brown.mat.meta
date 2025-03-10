@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7cf16eba2cfc50952c8b09f526df232ff727c5a21e7c95d45ac0b094d03ebdc1
-size 381
+fileFormatVersion: 2
+guid: 328e372aefdc3fd40a1c29d939ad65f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/Brown.mat
+  uploadId: 732376

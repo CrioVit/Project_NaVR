@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eacda7dd02b81bf5e8945a469ff4fb812f3e30a4bdedaa5e18995a8dcd3855be
-size 450
+fileFormatVersion: 2
+guid: a929b8a9aed45794ca106c9d0498b3b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Demo Scene/CubeBreak.cs
+  uploadId: 732376

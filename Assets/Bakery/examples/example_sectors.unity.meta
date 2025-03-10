@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d44e2f951fcf0ef8e36459155554396a5d149bb09138b1e9871e6927166d7920
-size 372
+fileFormatVersion: 2
+guid: aae617f31cf646c4c817c4e736ab26bb
+timeCreated: 1621509027
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/example_sectors.unity
+  uploadId: 641446

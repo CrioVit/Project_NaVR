@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ad3245a6b8ce98feb003f9cc83dca740c9b4630377e9733d15075f808704675
-size 366
+fileFormatVersion: 2
+guid: 8232c95120c18334da09ce9329de4963
+timeCreated: 1601292490
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/packalpha.pso
+  uploadId: 641446

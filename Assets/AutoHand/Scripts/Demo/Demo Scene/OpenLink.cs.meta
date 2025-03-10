@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89180f43be930fde13ad9922712db1c30ac858ff4d83ece08dd04c9cde4e0e9b
-size 449
+fileFormatVersion: 2
+guid: f8536c35c369f2f4cadf9c7299e8e16c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Demo Scene/OpenLink.cs
+  uploadId: 732376

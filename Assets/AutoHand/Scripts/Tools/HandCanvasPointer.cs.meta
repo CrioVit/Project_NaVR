@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88e506810d508bd46e578ea63a374595b9dbefd9d65d484ad2d983a4e5f968d4
-size 448
+fileFormatVersion: 2
+guid: 596e2cdbad5de264abd332ce27c9e3e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Tools/HandCanvasPointer.cs
+  uploadId: 732376

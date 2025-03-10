@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf1f57979f8f09a8d37931e6fe60b8de431dbd91256d7c8649813808841a89fe
-size 444
+fileFormatVersion: 2
+guid: 37ad27b092cab5640be450a446fb23b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/BETA/HeldPlaceJoint.cs
+  uploadId: 732376

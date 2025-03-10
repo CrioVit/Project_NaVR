@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88a99fc5eb96e516ba6c1ecfda05e2f198dbc82a0077bdfde64bae9f54a7b902
-size 454
+fileFormatVersion: 2
+guid: c683db686df4f834bb6ad25857a3b7de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Demo Scene/PlatformMover.cs
+  uploadId: 732376

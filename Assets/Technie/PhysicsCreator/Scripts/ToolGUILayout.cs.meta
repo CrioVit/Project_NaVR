@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:71d54c7afb4157a117ac8dbae1e4284fe64a8812e49642e39bdf92d68c7ebf7f
-size 452
+fileFormatVersion: 2
+guid: 7b6e1b36017fe0a4c917ba7adc3cd508
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/ToolGUILayout.cs
+  uploadId: 635387

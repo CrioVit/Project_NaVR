@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:16583434ba0f58750db4a2c49029b259b66f4fe731bd1ea211dc36c004620fc9
-size 455
+fileFormatVersion: 2
+guid: 29d44855d30d64344b3f5d74da661231
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/HullPainterChild.cs
+  uploadId: 635387

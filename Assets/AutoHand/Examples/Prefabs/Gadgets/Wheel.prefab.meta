@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2cce3ef09542f0dc3db3f8e0a8092bb713ab73a93d65b412f8ff4e7acd28ad13
-size 362
+fileFormatVersion: 2
+guid: 70e29e7b77154c442af27d6cc7993121
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Gadgets/Wheel.prefab
+  uploadId: 732376

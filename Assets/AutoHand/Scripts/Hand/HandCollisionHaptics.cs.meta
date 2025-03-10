@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cbfd6f2c5b639f4af10cdb2a3434be5754ed79ca4795747d4d6c3baa53397e9d
-size 450
+fileFormatVersion: 2
+guid: 102143406c4b41c46b4c86959873f5c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Hand/HandCollisionHaptics.cs
+  uploadId: 732376

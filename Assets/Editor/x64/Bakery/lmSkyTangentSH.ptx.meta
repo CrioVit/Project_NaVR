@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dcc39a86bac4bf4109997f3236e517db4faba1465b9086a99c52fee54909d505
-size 371
+fileFormatVersion: 2
+guid: 087e7fdd5cf349544a70811a4f31f629
+timeCreated: 1540383433
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/lmSkyTangentSH.ptx
+  uploadId: 641446

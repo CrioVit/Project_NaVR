@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ba9a0cb6a7c255a3fab736a4859f0832efd520434f02dbb8c53c621b6d52925d
-size 363
+fileFormatVersion: 2
+guid: 2a1a137465ddfaa44853567b084782d7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Demo/PinchCube.prefab
+  uploadId: 732376

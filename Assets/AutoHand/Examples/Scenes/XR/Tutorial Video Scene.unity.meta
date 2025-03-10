@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed5262d8fbb8d5396e23256eeef8f75bdcef3ff91ad21d12cd987e68110fb06f
-size 371
+fileFormatVersion: 2
+guid: dc74935531a6487409eb101722a98460
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Scenes/XR/Tutorial Video Scene.unity
+  uploadId: 732376

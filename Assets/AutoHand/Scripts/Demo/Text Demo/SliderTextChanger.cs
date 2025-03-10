@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:277aeda3abba280e6a4de1b0e6ec2223ec4f490ea71db5a9dc38b89c0919520b
-size 544
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Autohand.Demo{
+    public class SliderTextChanger : MonoBehaviour{
+        public TMPro.TextMeshPro text;
+        public PhysicsGadgetConfigurableLimitReader sliderReader;
+
+        float lastValue = 0;
+
+        void Update(){
+            var value = sliderReader.GetValue();
+            if(value != lastValue) {
+                lastValue = value;
+                text.text = Math.Round(value, 2).ToString();
+            }
+        }
+    }
+}

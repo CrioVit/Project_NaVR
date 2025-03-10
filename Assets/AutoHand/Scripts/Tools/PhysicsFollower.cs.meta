@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b26885b2e66bfda6b2d044d26ce35c2a3312283e80c0372320e4b771fea72d66
-size 446
+fileFormatVersion: 2
+guid: b6ef29e56e28a9341a4a527879bc24ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Tools/PhysicsFollower.cs
+  uploadId: 732376

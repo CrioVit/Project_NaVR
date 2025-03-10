@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:64b56b72d75dca7496e3a6f0edd46f1e4c1bb4a0dd6811b92ced92045d5eef1e
-size 393
+fileFormatVersion: 2
+guid: a23dd9a890df9154c85afc20164c615e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/AHPointer 2.mat
+  uploadId: 732376

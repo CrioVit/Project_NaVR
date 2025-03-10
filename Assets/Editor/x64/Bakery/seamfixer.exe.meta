@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1c07cec9d387383d2639fdd1e86eb6b1ffbb4762cc6476d5e6f2aa91bbb99a43
-size 366
+fileFormatVersion: 2
+guid: 1a97a07a987b63c4fa1eb5031a205270
+timeCreated: 1526331764
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/seamfixer.exe
+  uploadId: 641446

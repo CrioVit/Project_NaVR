@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fd573ac9489312b4ca76adb95ca6d4c2d577dd8b145f349707cf28d77f832b49
-size 363
+fileFormatVersion: 2
+guid: bd835e44f502bf540b6cc7ea7a7a7c00
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Demo/MonkeyBar.prefab
+  uploadId: 732376

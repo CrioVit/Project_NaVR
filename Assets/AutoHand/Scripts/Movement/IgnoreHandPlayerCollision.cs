@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c815cb26c9b3c684c8f6ea9f356af47f96d68fd77ead6d35696e3861e06c45e
-size 621
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Autohand {
+    public class IgnoreHandPlayerCollision : MonoBehaviour {
+        public List<Collider> colliders;
+
+        void Start() {
+            ActivateIgnoreCollision();
+        }
+
+        public void ActivateIgnoreCollision() {
+            foreach(var col in colliders)
+                AutoHandPlayer.Instance.IgnoreCollider(col, true);
+        }
+        public void DeactivateIgnoreCollision() {
+            foreach(var col in colliders)
+                AutoHandPlayer.Instance.IgnoreCollider(col, false);
+        }
+    }
+}

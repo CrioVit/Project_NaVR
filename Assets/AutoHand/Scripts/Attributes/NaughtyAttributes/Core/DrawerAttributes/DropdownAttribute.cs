@@ -1,3 +1,57 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f0e1c71321894be5027a0cf1049699b2c85ab8a34f39d9d2a4002c2e1f96edf
-size 1219
+﻿using System.Collections;
+using System;
+using System.Collections.Generic;
+
+namespace NaughtyAttributes
+{
+	[AttributeUsage(AttributeTargets.Field, AllowMultiple = false, Inherited = true)]
+	public class DropdownAttribute : DrawerAttribute
+	{
+		public string ValuesName { get; private set; }
+
+		public DropdownAttribute(string valuesName)
+		{
+			ValuesName = valuesName;
+		}
+	}
+
+	public interface IDropdownList : IEnumerable<KeyValuePair<string, object>>
+	{
+	}
+
+	public class DropdownList<T> : IDropdownList
+	{
+		private List<KeyValuePair<string, object>> _values;
+
+		public DropdownList()
+		{
+			_values = new List<KeyValuePair<string, object>>();
+		}
+
+		public void Add(string displayName, T value)
+		{
+			_values.Add(new KeyValuePair<string, object>(displayName, value));
+		}
+
+		public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
+		{
+			return _values.GetEnumerator();
+		}
+
+		IEnumerator IEnumerable.GetEnumerator()
+		{
+			return GetEnumerator();
+		}
+
+		public static explicit operator DropdownList<object>(DropdownList<T> target)
+		{
+			DropdownList<object> result = new DropdownList<object>();
+			foreach (var kvp in target)
+			{
+				result.Add(kvp.Key, kvp.Value);
+			}
+
+			return result;
+		}
+	}
+}

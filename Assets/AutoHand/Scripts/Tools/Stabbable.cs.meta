@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b9b3e2d3a2dcfc8a90e26ef8a7e1acdabc4572f5d3bbb5b4f00162ae9ac04aad
-size 440
+fileFormatVersion: 2
+guid: 3049614f012dedc469207bf41aa8944c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Tools/Stabbable.cs
+  uploadId: 732376

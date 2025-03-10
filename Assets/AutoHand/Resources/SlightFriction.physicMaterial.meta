@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd9e1af7ed84b320dd0b45645012c9d6a5b4f2df794dd23aa7926cc94655a8f0
-size 399
+fileFormatVersion: 2
+guid: 64db407b115832a419675304a1d3d72a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Resources/SlightFriction.physicMaterial
+  uploadId: 732376

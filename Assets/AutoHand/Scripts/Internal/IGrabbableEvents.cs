@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:071dc92940e7d396135e5b342535a5a70a0157b083796506adc0786ac50ba64d
-size 372
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Autohand {
+    public interface IGrabbableEvents {
+
+
+        void OnHighlight(Hand hand);
+
+        void OnUnhighlight(Hand hand);
+
+        void OnGrab(Hand hand);
+
+        void OnRelease(Hand hand);
+
+        public bool CanGrab(Hand hand);
+
+        Grabbable GetGrabbable();
+    }
+}

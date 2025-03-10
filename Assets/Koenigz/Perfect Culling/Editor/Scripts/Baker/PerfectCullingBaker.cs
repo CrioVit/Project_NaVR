@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f2233dc367d5993303418307ee26f09d6655f14f5ab8d568ca985a14e7b245b6
-size 766
+﻿// Perfect Culling (C) 2021 Patrick König
+//
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Koenigz.PerfectCulling
+{
+    public abstract class PerfectCullingBaker : System.IDisposable
+    {
+        public abstract string RendererName { get; }
+        
+        public virtual int BatchCount => PerfectCullingConstants.SampleBatchCount;
+        
+        protected readonly PerfectCullingBakeSettings m_bakeSettings;
+        
+        public PerfectCullingBaker(PerfectCullingBakeSettings perfectCullingBakeSettings)
+        {
+            m_bakeSettings = perfectCullingBakeSettings;
+        }
+
+        public abstract PerfectCullingBakerHandle SamplePosition(Vector3 pos);
+
+        public abstract void Dispose();
+    }
+}

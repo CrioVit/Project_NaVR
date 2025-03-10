@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bbab15f41260aad88e9dbd65da90ed05f84a79bedb61f8f4b3bfa09f93866225
-size 450
+fileFormatVersion: 2
+guid: 43f9b1d22f078fe4d8a79e84626ed5c5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Demos/Shaders/UnlitTransparentColor.shader
+  uploadId: 694221

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ffccb2d1d54daf95be2e5648b7ce9b06f243a3b1ab592c2dda3d0df43de5fd58
-size 446
+fileFormatVersion: 2
+guid: dbb03ea4c2f094a53b02416e0c2fc1ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Internal/HandPoseData.cs
+  uploadId: 732376

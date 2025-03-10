@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5616454040105dc9e9b6a91992c9c93a10dbf72465d2c4369f756093634cd2c8
-size 624
+using UnityEngine;
+
+namespace Autohand {
+    [RequireComponent(typeof(Grabbable)), HelpURL("https://app.gitbook.com/s/5zKO0EvOjzUDeT2aiFk3/auto-hand/auto-hand-player#climbing")]
+    public class Climbable : MonoBehaviour{
+        public Vector3 axis = Vector3.one;
+        public Stabber stabber;
+
+        private void Start() {
+            if(stabber != null) {
+                stabber.StartStabEvent += (hand, grab) => {
+                    enabled = true;
+                };
+                stabber.EndStabEvent += (hand, grab) => {
+                    enabled = false;
+                };
+            }
+        }
+    }
+}

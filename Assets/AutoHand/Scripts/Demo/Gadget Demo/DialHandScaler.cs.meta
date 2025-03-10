@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bec92e9ea095d33839e5c8f2e5de0248fc3efe459e0cee4d034ec301939b2844
-size 456
+fileFormatVersion: 2
+guid: 1f4b70a8134140646914d4825d4a6617
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Gadget Demo/DialHandScaler.cs
+  uploadId: 732376

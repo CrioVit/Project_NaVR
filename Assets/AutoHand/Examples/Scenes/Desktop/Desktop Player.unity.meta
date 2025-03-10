@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5de0a5c6280c60e7b99cd2e625c0a9d0a465cbc2d04e86d770cdb6bb7d3b093a
-size 370
+fileFormatVersion: 2
+guid: bb1eab65b7f030d4fab81d20430b0b3d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Scenes/Desktop/Desktop Player.unity
+  uploadId: 732376

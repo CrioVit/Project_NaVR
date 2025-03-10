@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ab1238ba39d50b763fda6b31f39c093a0c8827c1485b2c770c9a59fec91c2570
-size 379
+fileFormatVersion: 2
+guid: e65f981759769984da75f419f9ec11ad
+timeCreated: 1526161016
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/lambert_backface_check.ptx
+  uploadId: 641446

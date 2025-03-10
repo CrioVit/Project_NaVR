@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ad9e6084f41b8569b4c4b5d4dd85b57a9dee29711ccf5e850d13ff60d89b2fb3
-size 415
+fileFormatVersion: 2
+guid: 7d5e80a1e9fbdca429199209bc6df8cb
+timeCreated: 1463610802
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Shaders/HullPainterOverlay.shader
+  uploadId: 635387

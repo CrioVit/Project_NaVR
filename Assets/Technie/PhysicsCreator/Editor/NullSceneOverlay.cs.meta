@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b3ac0c6f7fd43249d03c51c7cfdca7a11af8228732f5a891c5a71306aaee20f8
-size 454
+fileFormatVersion: 2
+guid: 4e4c7f3f29be7a74a8e85d162e4a584c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Editor/NullSceneOverlay.cs
+  uploadId: 635387

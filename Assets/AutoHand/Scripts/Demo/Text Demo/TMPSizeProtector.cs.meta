@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e584b459f996e6c2ea5c85f99f8f5ecca13dea24df5525072959c098e199eebd
-size 456
+fileFormatVersion: 2
+guid: 0d48f091a3199d14084f6e23151ace29
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Text Demo/TMPSizeProtector.cs
+  uploadId: 732376

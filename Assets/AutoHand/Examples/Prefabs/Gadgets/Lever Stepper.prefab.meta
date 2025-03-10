@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e8cccf89445cfca2decb31c0ff4c39cada88c9625aec21901ad37776d0621470
-size 370
+fileFormatVersion: 2
+guid: a04551917425b7643a2fb7a5bc074de9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Gadgets/Lever Stepper.prefab
+  uploadId: 732376

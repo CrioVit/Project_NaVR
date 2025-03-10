@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2938f087bd0c0cda968ae1edd6e29d9213b17dd277c9eb8383883d0dfcc324a0
-size 508
+fileFormatVersion: 2
+guid: 6e27ffd9a96b58c46bb74cc93de3e06f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Attributes/NaughtyAttributes/Editor/PropertyDrawers/ResizableTextAreaPropertyDrawer.cs
+  uploadId: 732376

@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6efe150c91d4847533c6e914f6a8a31339605df90a9225c365ac6ca4f8d4aef9
-size 1140
+#if UNITY_EDITOR
+
+// Disable 'obsolete' warnings
+#pragma warning disable 0618
+
+using UnityEngine;
+using UnityEditor;
+using System;
+using UnityEditor.Build;
+
+[InitializeOnLoad]
+#if UNITY_2017_4_OR_NEWER
+public class ftDefine : IActiveBuildTargetChanged
+#else
+public class ftDefine
+#endif
+{
+    static void AddDefine()
+    {
+        var platform = EditorUserBuildSettings.selectedBuildTargetGroup;
+        var defines = PlayerSettings.GetScriptingDefineSymbolsForGroup(platform);
+        if (!defines.Contains("BAKERY_INCLUDED"))
+        {
+            if (defines.Length > 0) defines += ";";
+            defines += "BAKERY_INCLUDED";
+            if (!defines.Contains("BAKERY_NOREIMPORT"))
+            {
+                defines += ";BAKERY_NOREIMPORT";
+            }
+            PlayerSettings.SetScriptingDefineSymbolsForGroup(platform, defines);
+        }
+    }
+
+    static ftDefine()
+    {
+        AddDefine();
+    }
+
+#if UNITY_2017_4_OR_NEWER
+    public int callbackOrder { get { return 0; } }
+    public void OnActiveBuildTargetChanged(BuildTarget previousTarget, BuildTarget newTarget)
+    {
+        AddDefine();
+    }
+#endif
+}
+
+#endif

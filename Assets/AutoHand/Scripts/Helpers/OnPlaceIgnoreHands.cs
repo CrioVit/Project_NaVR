@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c46c4037fb897ba9fb27892a6b6ead52fd7d50ff755b086b9b5e09030dcc8a11
-size 839
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Autohand {
+    public class OnPlaceIgnoreHands : MonoBehaviour {
+
+        public PlacePoint placePoint;
+        public Hand[] ignoreHands;
+
+        void OnEnable() {
+            placePoint.OnPlaceEvent += OnPlace;
+            placePoint.OnRemoveEvent += OnRemove;
+        }
+
+
+        void OnDisable() {
+            placePoint.OnPlaceEvent -= OnPlace;
+            placePoint.OnRemoveEvent -= OnRemove;
+        }
+
+        void OnPlace(PlacePoint point, Grabbable grab) {
+            foreach(var hand in ignoreHands)
+                grab.IgnoreHand(hand, true, true);
+        }
+
+        void OnRemove(PlacePoint point, Grabbable grab) {
+            foreach(var hand in ignoreHands) 
+                grab.IgnoreHand(hand, false, true);
+        }
+    }
+}

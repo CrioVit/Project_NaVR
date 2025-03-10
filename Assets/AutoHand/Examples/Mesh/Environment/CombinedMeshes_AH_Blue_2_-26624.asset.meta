@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a69f3ff874f4e538297dd3b560cce62d7796a4815fbb7c7e3dd667bf6d1d5e37
-size 422
+fileFormatVersion: 2
+guid: 3467ef4fca4ed87479edc6f89771b09a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Mesh/Environment/CombinedMeshes_AH_Blue_2_-26624.asset
+  uploadId: 732376

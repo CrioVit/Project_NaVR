@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57a95fac2d407cde5bee9c4e6650178e2b727eddc0720867d5b26b8f39fcb098
-size 446
+fileFormatVersion: 2
+guid: f3db25e7af68fae448be32ac1f37480f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Tools/AutoInputModule.cs
+  uploadId: 732376

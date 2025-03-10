@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f63fc85e11c274e8e6a3624e2211b7e40afcb43d43e86dd3ef9ff1ecb25414f3
-size 455
+fileFormatVersion: 2
+guid: 55b6f48a67da5af47997d327361ececb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Internal/DynamicTimestepSetter.cs
+  uploadId: 732376

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:66f402b22099b01d98c239080a38adb36b6a61febb07d7ae0630a6be0ae32ff1
-size 422
+fileFormatVersion: 2
+guid: 44aab8d674638bd42a79bdc3a351e240
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Demos/Data/Bake_Terrain.asset
+  uploadId: 694221

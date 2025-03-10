@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5891be0588d6f9448dbe0dd80a910780016188148fdd6322125d673f1e9fb23
-size 462
+﻿using System;
+
+namespace NaughtyAttributes
+{
+	public enum EInfoBoxType
+	{
+		Normal,
+		Warning,
+		Error
+	}
+
+	[AttributeUsage(AttributeTargets.Field, AllowMultiple = true, Inherited = true)]
+	public class InfoBoxAttribute : DrawerAttribute
+	{
+		public string Text { get; private set; }
+		public EInfoBoxType Type { get; private set; }
+
+		public InfoBoxAttribute(string text, EInfoBoxType type = EInfoBoxType.Normal)
+		{
+			Text = text;
+			Type = type;
+		}
+	}
+}

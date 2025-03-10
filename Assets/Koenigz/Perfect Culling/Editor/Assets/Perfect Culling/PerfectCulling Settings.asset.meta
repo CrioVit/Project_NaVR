@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c32e066ab8cd179df53a5b20db5d60d06080c6a547bf4dc8f308b9fc6273c0c7
-size 456
+fileFormatVersion: 2
+guid: 79bb3dd1d5373774d9ce2a6c7290de41
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Editor/Assets/Perfect Culling/PerfectCulling
+    Settings.asset
+  uploadId: 694221

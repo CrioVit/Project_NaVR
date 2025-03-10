@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:539ba6a9885f079d26fde7fea6469921504ea8cb9ad30609fbd6b54fe80eb78c
-size 438
+fileFormatVersion: 2
+guid: 80a6c4b11bee64943899872d86aad925
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Tools/Stabber.cs
+  uploadId: 732376

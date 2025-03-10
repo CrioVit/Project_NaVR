@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:10c96e13bff9949e3f4fa2768115153c5374ab7498b6bf209f70ff58cf482e2c
-size 377
+fileFormatVersion: 2
+guid: e8146e515ac999548978f331c254bda6
+timeCreated: 1528384204
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/lambert_texarealight.ptx
+  uploadId: 641446

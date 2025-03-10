@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e63eab906d849076c7ce0b1a4b90c1453508d0ca54134a5b6d4a51d6966f5a94
-size 444
+fileFormatVersion: 2
+guid: 02e7dadae3689a64bb9a24e46177ce9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Movement/Teleporter.cs
+  uploadId: 732376

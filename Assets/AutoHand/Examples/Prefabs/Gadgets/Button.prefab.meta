@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6164a1d99c67bbcb7356c6f9c046f877c9496d59fbf14956ea93ba699cf25abb
-size 363
+fileFormatVersion: 2
+guid: 352f22c0ea4b32f46995b40e5190f09d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Gadgets/Button.prefab
+  uploadId: 732376

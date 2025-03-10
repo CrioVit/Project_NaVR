@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:49ab69f31c5f8d47a3a47ea0f4d270005fb9ac297f783ba3be83e7d4fbd8bae5
-size 1455
+using Autohand;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[RequireComponent(typeof(PlacePoint))]
+public class PlacePointEventDebugger : MonoBehaviour
+{
+    PlacePoint placePoint;
+
+    void OnEnable()
+    {
+        placePoint = GetComponent<PlacePoint>();
+        placePoint.OnPlaceEvent += (PlacePoint point, Grabbable grabbable) => { Debug.Log(name + "On Place: " + Time.time); };
+        placePoint.OnRemoveEvent += (PlacePoint point, Grabbable grabbable) => { Debug.Log(name + "On Remove: " + Time.time); };
+        placePoint.OnHighlightEvent += (PlacePoint point, Grabbable grabbable) => { Debug.Log(name + "On Highlight: " + Time.time); };
+        placePoint.OnStopHighlightEvent += (PlacePoint point, Grabbable grabbable) => { Debug.Log(name + "On Stop Highlight: " + Time.time); };
+    }
+
+
+    void OnDisable()
+    {
+        placePoint = GetComponent<PlacePoint>();
+        placePoint.OnPlaceEvent -= (PlacePoint point, Grabbable grabbable) => { Debug.Log(name + "On Place: " + Time.time); };
+        placePoint.OnRemoveEvent -= (PlacePoint point, Grabbable grabbable) => { Debug.Log(name + "On Remove: " + Time.time); };
+        placePoint.OnHighlightEvent -= (PlacePoint point, Grabbable grabbable) => { Debug.Log(name + "On Highlight: " + Time.time); };
+        placePoint.OnStopHighlightEvent -= (PlacePoint point, Grabbable grabbable) => { Debug.Log(name + "On Stop Highlight: " + Time.time); };
+    }
+}

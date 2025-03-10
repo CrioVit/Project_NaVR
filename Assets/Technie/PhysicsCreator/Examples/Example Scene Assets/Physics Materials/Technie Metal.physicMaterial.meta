@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:792af3724f4c11544f020409f082a3eb0220cedcafabe084a946b15794d47bb0
-size 446
+fileFormatVersion: 2
+guid: a2f243023f96a494083052b3d3feac78
+timeCreated: 1487516209
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Examples/Example Scene Assets/Physics
+    Materials/Technie Metal.physicMaterial
+  uploadId: 635387

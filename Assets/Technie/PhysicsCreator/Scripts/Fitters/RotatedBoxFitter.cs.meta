@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0e3c5995853c742d3a94433281c63d4bb228e8b01c339a5e0522993d83e91189
-size 484
+fileFormatVersion: 2
+guid: efd8c5541c710ea4191c0c9793fd4fa6
+timeCreated: 1606664976
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Scripts/Fitters/RotatedBoxFitter.cs
+  uploadId: 635387

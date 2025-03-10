@@ -1,3 +1,35 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d410723b9cb46824b46d211f26bf787f33628ad57cdb0099961154de36c98e74
-size 904
+﻿// Perfect Culling (C) 2021 Patrick König
+//
+
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Serialization;
+
+namespace Koenigz.PerfectCulling
+{
+    /// <summary>
+    /// Allows to forcefully clamp the sampling position to the closest portal (instead of the closest cell)
+    /// </summary>
+    public class PerfectCullingPortalCell : MonoBehaviour
+    {
+        [FormerlySerializedAs("CullingVolume")] public PerfectCullingVolume cullingVolume;
+        
+        private void OnEnable()
+        {
+            cullingVolume.AddPortalCell(this);
+        }
+
+        private void OnDisable()
+        {
+            cullingVolume.RemovePortalCell(this);
+        }
+
+        private void OnDrawGizmos()
+        {
+            Gizmos.color = Color.yellow;
+            Gizmos.DrawWireCube(transform.position, 0.25f * Vector3.one);
+        }
+    }
+}

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:602365238a556e37fdd65cc16d580238a7279550564cc4f8ecdb4b68021448d6
-size 373
+fileFormatVersion: 2
+guid: c50032ec256b0414480516a8270deea5
+timeCreated: 1630505910
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/lmSunSuperSample.ptx
+  uploadId: 641446

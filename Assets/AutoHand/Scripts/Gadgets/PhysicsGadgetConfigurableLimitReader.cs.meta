@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:962b75a78143b6a4c4807e28a457c402af53734695928132a490b276ad489a48
-size 469
+fileFormatVersion: 2
+guid: 18d9c58a36556874fad9e6f1666c394f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Gadgets/PhysicsGadgetConfigurableLimitReader.cs
+  uploadId: 732376

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c29c68bb60a75d5b1a735a11ad32801ece61c8953eef0686905fc2cba1a4adf
-size 372
+fileFormatVersion: 2
+guid: 09ae1bcf43095f94eadb21257b0ccff0
+timeCreated: 1605208943
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/denoiseFinish72.ptx
+  uploadId: 641446

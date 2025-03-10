@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:204f3358a162553b101f1372bd538f96d12a6a8718f9e0868d70ca8a27ba05d0
-size 389
+fileFormatVersion: 2
+guid: 7a156f7d45177bc42adb509591520010
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Materials/GunHighlights.mat
+  uploadId: 732376

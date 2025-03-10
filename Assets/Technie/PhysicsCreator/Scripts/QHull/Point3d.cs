@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:94943fbbf9b7a7a09bccc6e64f125b1d4355f20d4139bcbc186fdc5fc9d5b013
-size 697
+/* C# port of QHull. See 'QHull Licence.txt' for license details */
+
+namespace Technie.PhysicsCreator.QHull
+{
+
+	/**
+	 * A three-element spatial point.
+	 */
+	public class Point3d : Vector3d
+	{
+		/**
+		 * Creates a Point3d and initializes it to zero.
+		 */
+		public Point3d ()
+		 {
+		 }
+
+		/**
+		 * Creates a Point3d by copying a vector
+		 *
+		 * @param v vector to be copied
+		 */
+		public Point3d (Vector3d v)
+		 {
+		   set (v);
+		 }
+
+		/**
+		 * Creates a Point3d with the supplied element values.
+		 *
+		 * @param x first element
+		 * @param y second element
+		 * @param z third element
+		 */
+		public Point3d (double x, double y, double z)
+		 {
+		   set (x, y, z);
+		 }
+	}
+
+} // namespace QHull

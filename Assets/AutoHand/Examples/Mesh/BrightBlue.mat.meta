@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:27aeb023da03e9bc51747944b27fe34206b0fe7ee0d7b025be4f030afd840d1a
-size 387
+fileFormatVersion: 2
+guid: 7b0bae8ba89587e40ab8d8412f9cb724
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Mesh/BrightBlue.mat
+  uploadId: 732376

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0925d1b5dd9642b8f80c50768d0e4eeed9a1008c5aab63f6392f0eb51a4753e
-size 453
+fileFormatVersion: 2
+guid: 78a576f4bc349514081162ce5d9f4e09
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Examples/Example Scene Assets/Physics
+    Hulls/Armature_Mesh.runtimeData.asset
+  uploadId: 635387

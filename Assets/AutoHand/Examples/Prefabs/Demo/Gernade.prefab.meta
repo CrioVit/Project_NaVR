@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fb95363b548023820f5f6f8e8c354dec0eafdcad7912aa7ab4e8ad8b6f7e9f29
-size 361
+fileFormatVersion: 2
+guid: 8bac68e308772e241af2e8533e851b40
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Examples/Prefabs/Demo/Gernade.prefab
+  uploadId: 732376

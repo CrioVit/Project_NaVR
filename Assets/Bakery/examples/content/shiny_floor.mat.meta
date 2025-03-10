@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b09b7be86a1d84c838c2c62be2c8f59529d5a64238757bdba1610ae05ac6430c
-size 407
+fileFormatVersion: 2
+guid: 105540f6327a1e6429b883b2ca0e0db3
+timeCreated: 1535141927
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/content/shiny_floor.mat
+  uploadId: 641446

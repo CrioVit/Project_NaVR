@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b1bd49c42c62fd28dbaa97f4cbfa6f26a0739f6fb71e0efc2dee5440a608c44a
-size 453
+fileFormatVersion: 2
+guid: a1d2b3b0ed9670e41adb98884f53ccc6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217070
+  packageName: Technie Collider Creator 2
+  packageVersion: 1.2.1
+  assetPath: Assets/Technie/PhysicsCreator/Examples/Example Scene Assets/Physics
+    Hulls/Technie Mug Painting Data.asset
+  uploadId: 635387

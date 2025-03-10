@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95e51157570ec69ec67b7397938d12f8a2855cb4dbd091e3c9f7546061d3c4ab
-size 382
+fileFormatVersion: 2
+guid: dc64e635488f60747bf5e9025c593285
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Editor/x64/Bakery/scripts/ftRenderLightmap.cs
+  uploadId: 641446

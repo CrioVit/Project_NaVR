@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70fb054d33b23357ffbb8713acf6a442cb0589c2482b4532c835762f77dd2e60
-size 321
+
+using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+
+namespace Technie.PhysicsCreator
+{
+	// This is just used as a marker so we can find the asset with our collision meshes in
+	// TODO: Rename to HullAsset ? HullMeshAsset ? HullMeshStorage ?
+
+	public class HullData : ScriptableObject
+	{
+
+	}
+}

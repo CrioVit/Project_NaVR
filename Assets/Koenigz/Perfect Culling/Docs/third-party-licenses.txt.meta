@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:07d9a489f4928d087972454e384d9d651e013e143c3e08b90617ebd57bb9d7c7
-size 391
+fileFormatVersion: 2
+guid: 102e9a6f370eb574e8fe5bda0856e11d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193611
+  packageName: Perfect Culling - Occlusion Culling System
+  packageVersion: 1.2.6.2
+  assetPath: Assets/Koenigz/Perfect Culling/Docs/third-party-licenses.txt
+  uploadId: 694221

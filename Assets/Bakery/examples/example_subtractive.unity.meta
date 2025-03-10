@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f05efd4612e6b4c67e508e4f28e632f97efd4900707cdccad87252289a1fec6f
-size 376
+fileFormatVersion: 2
+guid: 45aa0e03fa1fe7647ae7082762469969
+timeCreated: 1559469803
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122218
+  packageName: Bakery - GPU Lightmapper
+  packageVersion: 1.96
+  assetPath: Assets/Bakery/examples/example_subtractive.unity
+  uploadId: 641446

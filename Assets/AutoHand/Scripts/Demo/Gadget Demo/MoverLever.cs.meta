@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d62749e9f85e6119b4df276263d33b85f05f67b1b2994c560d53bfc20db6874
-size 452
+fileFormatVersion: 2
+guid: 0fa576b4d758c154c9f822f75e47e220
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165323
+  packageName: Auto Hand - VR Interaction
+  packageVersion: 4.0.4
+  assetPath: Assets/AutoHand/Scripts/Demo/Gadget Demo/MoverLever.cs
+  uploadId: 732376
